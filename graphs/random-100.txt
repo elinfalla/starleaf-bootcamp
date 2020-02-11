@@ -1,0 +1,309 @@
+100
+evacuates
+unwieldier
+nightmares
+assessing
+licencing
+greensward
+quarterbacking
+heretics
+mandates
+secrecy
+okra
+ridiculing
+bloom
+elicits
+hyperactivity
+braising
+palefaces
+tangoing
+motherliness
+caveat
+delphiniums
+nullification
+piazza
+professor
+sneaks
+surlier
+overlaid
+forgettable
+brooms
+hospice
+conveniently
+curtains
+gentler
+satisfactions
+dissimulation
+swearer
+circumstances
+route
+bisects
+jazzes
+marvels
+procreating
+decal
+honourable
+sandboxes
+industrially
+luring
+glissandi
+fidgety
+tampering
+liquidise
+frolic
+intrenching
+circuitry
+spreaders
+eglantine
+snuffled
+incite
+peewee
+released
+sulphurous
+smoothed
+underdeveloped
+antifreeze
+goddamn
+workplaces
+topside
+fieriness
+ribaldry
+shellac
+sis
+dues
+dowry
+airway
+lards
+amplitudes
+invocation
+slow
+haw
+optionally
+purgatories
+traipse
+ruminants
+cloths
+subsidised
+obliviously
+detonations
+joyfully
+announced
+superiors
+absinthe
+quicksilver
+k
+retired
+replies
+portrait
+replacements
+impermanent
+wobbliest
+japing
+
+200
+evacuates frolic 3662
+evacuates licencing 2614
+unwieldier subsidised 266
+unwieldier satisfactions 5544
+nightmares brooms 3850
+nightmares haw 8135
+assessing superiors 5527
+assessing dues 1578
+licencing dissimulation 2233
+licencing announced 1320
+greensward hyperactivity 3857
+greensward assessing 645
+quarterbacking hyperactivity 57
+quarterbacking ribaldry 6434
+heretics quicksilver 2149
+heretics secrecy 3923
+mandates joyfully 3343
+mandates released 8915
+secrecy incite 7772
+secrecy delphiniums 6445
+okra haw 338
+okra palefaces 4352
+ridiculing brooms 7120
+ridiculing assessing 7588
+bloom released 6263
+bloom caveat 693
+elicits announced 4674
+elicits hospice 6575
+hyperactivity released 1003
+hyperactivity assessing 6050
+braising dues 5951
+braising sandboxes 5313
+palefaces overlaid 9211
+palefaces dissimulation 5604
+tangoing fidgety 5037
+tangoing surlier 1307
+motherliness incite 2979
+motherliness liquidise 3942
+caveat traipse 1586
+caveat evacuates 2154
+delphiniums impermanent 3141
+delphiniums workplaces 672
+nullification impermanent 6886
+nullification marvels 5248
+piazza replacements 2958
+piazza heretics 3744
+professor eglantine 1269
+professor conveniently 4553
+sneaks heretics 9635
+sneaks piazza 165
+surlier dues 4908
+surlier bisects 2748
+overlaid procreating 3481
+overlaid motherliness 689
+forgettable procreating 923
+forgettable hyperactivity 5619
+brooms superiors 2040
+brooms invocation 4580
+hospice overlaid 9887
+hospice portrait 9517
+conveniently ridiculing 1124
+conveniently honourable 8104
+curtains heretics 5020
+curtains circuitry 1926
+gentler absinthe 5515
+gentler lards 2028
+satisfactions overlaid 9914
+satisfactions retired 1013
+dissimulation evacuates 4168
+dissimulation procreating 4812
+swearer traipse 4542
+swearer gentler 8208
+circumstances joyfully 9423
+circumstances smoothed 8210
+route slow 8966
+route marvels 4857
+bisects ridiculing 3690
+bisects mandates 1536
+jazzes smoothed 8319
+jazzes obliviously 9714
+marvels marvels 1904
+marvels palefaces 3312
+procreating professor 2867
+procreating detonations 1562
+decal surlier 2376
+decal palefaces 4828
+honourable swearer 9507
+honourable hospice 6202
+sandboxes okra 2175
+sandboxes quicksilver 943
+industrially wobbliest 4840
+industrially brooms 3933
+luring fieriness 5111
+luring purgatories 7237
+glissandi unwieldier 5281
+glissandi cloths 6318
+fidgety brooms 5042
+fidgety mandates 5352
+tampering elicits 3952
+tampering haw 7647
+liquidise airway 5991
+liquidise replacements 9596
+frolic fidgety 1861
+frolic detonations 778
+intrenching caveat 2911
+intrenching tampering 7879
+circuitry underdeveloped 7519
+circuitry purgatories 2631
+spreaders topside 3630
+spreaders okra 5113
+eglantine conveniently 9521
+eglantine smoothed 2446
+snuffled impermanent 1059
+snuffled underdeveloped 8822
+incite fieriness 1063
+incite intrenching 4041
+peewee joyfully 5294
+peewee circuitry 8901
+released haw 8488
+released impermanent 3893
+sulphurous sis 7750
+sulphurous caveat 5500
+smoothed hospice 9933
+smoothed elicits 600
+underdeveloped goddamn 4348
+underdeveloped fieriness 5176
+antifreeze nullification 3495
+antifreeze licencing 8430
+goddamn liquidise 1771
+goddamn gentler 8619
+workplaces released 71
+workplaces antifreeze 6237
+topside circumstances 8999
+topside detonations 8869
+fieriness sulphurous 1167
+fieriness palefaces 5236
+ribaldry dissimulation 883
+ribaldry topside 6888
+shellac jazzes 8864
+shellac ridiculing 7081
+sis heretics 5904
+sis impermanent 7079
+dues released 2581
+dues nightmares 302
+dowry delphiniums 5463
+dowry gentler 3535
+airway piazza 7932
+airway traipse 896
+lards antifreeze 1260
+lards slow 7120
+amplitudes eglantine 8877
+amplitudes peewee 7694
+invocation traipse 3090
+invocation greensward 6926
+slow incite 8421
+slow professor 1517
+haw luring 5317
+haw impermanent 73
+optionally surlier 6807
+optionally ribaldry 8600
+purgatories detonations 1998
+purgatories brooms 4153
+traipse japing 961
+traipse caveat 9563
+ruminants traipse 7515
+ruminants absinthe 998
+cloths decal 9037
+cloths haw 6150
+subsidised overlaid 5976
+subsidised glissandi 3136
+obliviously assessing 6136
+obliviously frolic 5071
+detonations replies 5950
+detonations heretics 5701
+joyfully evacuates 8221
+joyfully tangoing 7728
+announced optionally 9139
+announced wobbliest 6499
+superiors bloom 3279
+superiors retired 8671
+absinthe caveat 9094
+absinthe ruminants 7184
+quicksilver subsidised 1062
+quicksilver superiors 9313
+k glissandi 5463
+k impermanent 4137
+retired released 3451
+retired frolic 3050
+replies tampering 7054
+replies surlier 4860
+portrait detonations 9402
+portrait quicksilver 8196
+replacements industrially 819
+replacements replacements 1343
+impermanent bloom 3458
+impermanent nightmares 1242
+wobbliest slow 2384
+wobbliest replacements 9737
+japing fidgety 4462
+japing invocation 3186
+
+piazza glissandi
+impermanent airway
+lards satisfactions
+detonations unwieldier
+sulphurous invocation

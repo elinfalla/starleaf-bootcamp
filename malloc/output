@@ -1,0 +1,6471 @@
+MALLOC CALLED: size = 16
+head pointer returned: 531d7100
+
+
+MALLOC CALLED: size = 16
+previous: 531d70e0
+previous further down: 531d70e0
+pointer returned: 531d7130
+
+
+MALLOC CALLED: size = 2
+previous: 531d7110
+previous further down: 531d7110
+pointer returned: 531d7160
+
+
+MALLOC CALLED: size = 5
+previous: 531d7140
+previous further down: 531d7140
+pointer returned: 531d7190
+
+
+
+FREE ptr: 531d7190
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d7190, current: 531d7170, current->free 1, current->size: -279725402153616, current->next: 541d70e0, current->previous: 531d7140
+MALLOC CALLED: size = 120
+previous: 531d7140
+previous further down: 531d7140
+pointer returned: 531d7190
+
+
+MALLOC CALLED: size = 12
+previous: 531d7170
+previous further down: 531d7170
+pointer returned: 531d7230
+
+
+MALLOC CALLED: size = 776
+previous: 531d7210
+previous further down: 531d7210
+pointer returned: 531d7260
+
+
+MALLOC CALLED: size = 112
+previous: 531d7240
+previous further down: 531d7240
+pointer returned: 531d7590
+
+
+MALLOC CALLED: size = 1336
+previous: 531d7570
+previous further down: 531d7570
+pointer returned: 531d7620
+
+
+MALLOC CALLED: size = 216
+previous: 531d7600
+previous further down: 531d7600
+pointer returned: 531d7b80
+
+
+MALLOC CALLED: size = 432
+previous: 531d7b60
+previous further down: 531d7b60
+pointer returned: 531d7c80
+
+
+MALLOC CALLED: size = 104
+previous: 531d7c60
+previous further down: 531d7c60
+pointer returned: 531d7e50
+
+
+MALLOC CALLED: size = 88
+previous: 531d7e30
+previous further down: 531d7e30
+pointer returned: 531d7ee0
+
+
+MALLOC CALLED: size = 120
+previous: 531d7ec0
+previous further down: 531d7ec0
+pointer returned: 531d7f60
+
+
+MALLOC CALLED: size = 168
+previous: 531d7f40
+previous further down: 531d7f40
+pointer returned: 531d8000
+
+
+MALLOC CALLED: size = 104
+previous: 531d7fe0
+previous further down: 531d7fe0
+pointer returned: 531d80d0
+
+
+MALLOC CALLED: size = 80
+previous: 531d80b0
+previous further down: 531d80b0
+pointer returned: 531d8160
+
+
+MALLOC CALLED: size = 192
+previous: 531d8140
+previous further down: 531d8140
+pointer returned: 531d81d0
+
+
+MALLOC CALLED: size = 12
+previous: 531d81b0
+previous further down: 531d81b0
+pointer returned: 531d82b0
+
+
+MALLOC CALLED: size = 12
+previous: 531d8290
+previous further down: 531d8290
+pointer returned: 531d82e0
+
+
+MALLOC CALLED: size = 12
+previous: 531d82c0
+previous further down: 531d82c0
+pointer returned: 531d8310
+
+
+MALLOC CALLED: size = 12
+previous: 531d82f0
+previous further down: 531d82f0
+pointer returned: 531d8340
+
+
+MALLOC CALLED: size = 12
+previous: 531d8320
+previous further down: 531d8320
+pointer returned: 531d8370
+
+
+MALLOC CALLED: size = 12
+previous: 531d8350
+previous further down: 531d8350
+pointer returned: 531d83a0
+
+
+MALLOC CALLED: size = 12
+previous: 531d8380
+previous further down: 531d8380
+pointer returned: 531d83d0
+
+
+MALLOC CALLED: size = 12
+previous: 531d83b0
+previous further down: 531d83b0
+pointer returned: 531d8400
+
+
+MALLOC CALLED: size = 12
+previous: 531d83e0
+previous further down: 531d83e0
+pointer returned: 531d8430
+
+
+MALLOC CALLED: size = 12
+previous: 531d8410
+previous further down: 531d8410
+pointer returned: 531d8460
+
+
+MALLOC CALLED: size = 12
+previous: 531d8440
+previous further down: 531d8440
+pointer returned: 531d8490
+
+
+MALLOC CALLED: size = 12
+previous: 531d8470
+previous further down: 531d8470
+pointer returned: 531d84c0
+
+
+MALLOC CALLED: size = 12
+previous: 531d84a0
+previous further down: 531d84a0
+pointer returned: 531d84f0
+
+
+previous: 531d84d0
+previous further down: 531d84d0
+pointer returned: 531d8520
+MALLOC CALLED: size = 208
+previous: 531d8500
+previous further down: 531d8500
+pointer returned: 531d8560
+
+
+MALLOC CALLED: size = 208
+previous: 531d8540
+previous further down: 531d8540
+pointer returned: 531d8650
+
+
+MALLOC CALLED: size = 32
+previous: 531d8630
+previous further down: 531d8630
+pointer returned: 531d8740
+
+
+
+FREE ptr: 531d84c0
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d84c0, current: 531d84a0, current->free 1, current->size: 16, current->next: 531d84d0, current->previous: 531d8470
+
+FREE ptr: 531d8490
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d8490, current: 531d8470, current->free 1, current->size: 64, current->next: 531d84d0, current->previous: 531d8440
+
+FREE ptr: 531d8460
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d8460, current: 531d8440, current->free 1, current->size: 112, current->next: 531d84d0, current->previous: 531d8410
+
+FREE ptr: 531d8430
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d8430, current: 531d8410, current->free 1, current->size: 160, current->next: 531d84d0, current->previous: 531d83e0
+
+FREE ptr: 531d8400
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d8400, current: 531d83e0, current->free 1, current->size: 208, current->next: 531d84d0, current->previous: 531d83b0
+
+FREE ptr: 531d83d0
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d83d0, current: 531d83b0, current->free 1, current->size: 256, current->next: 531d84d0, current->previous: 531d8380
+
+FREE ptr: 531d83a0
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d83a0, current: 531d8380, current->free 1, current->size: 304, current->next: 531d84d0, current->previous: 531d8350
+
+FREE ptr: 531d8370
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d8370, current: 531d8350, current->free 1, current->size: 352, current->next: 531d84d0, current->previous: 531d8320
+
+FREE ptr: 531d8340
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d8340, current: 531d8320, current->free 1, current->size: 400, current->next: 531d84d0, current->previous: 531d82f0
+
+FREE ptr: 531d8310
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d8310, current: 531d82f0, current->free 1, current->size: 448, current->next: 531d84d0, current->previous: 531d82c0
+
+FREE ptr: 531d82e0
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d82e0, current: 531d82c0, current->free 1, current->size: 496, current->next: 531d84d0, current->previous: 531d8290
+
+FREE ptr: 531d82b0
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d82b0, current: 531d8290, current->free 1, current->size: 544, current->next: 531d84d0, current->previous: 531d81b0
+
+FREE ptr: 531d84f0
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d84f0, current: 531d84d0, current->free 1, current->size: 16, current->next: 531d8500, current->previous: 531d8290
+
+FREE ptr: 531d7160
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 531d7160, current: 531d7140, current->free 1, current->size: 16, current->next: 531d7170, current->previous: 531d7110
+MALLOC CALLED: size = 12
+RETURN not at end: 531d7160
+
+
+MALLOC CALLED: size = 171
+RETURN not at end: 531d82b0
+
+
+MALLOC CALLED: size = 120
+previous: 531d8720
+previous further down: 531d8720
+pointer returned: 531d8780
+
+
+MALLOC CALLED: size = 2064
+previous: 531d8760
+previous further down: 531d8760
+pointer returned: 531d8820
+
+
+MALLOC CALLED: size = 32
+previous: 531d8800
+previous further down: 531d8800
+pointer returned: 531d9050
+
+
+MALLOC CALLED: size = 2272
+previous: 531d9030
+previous further down: 531d9030
+pointer returned: 531d9090
+
+
+previous: 531d9070
+previous further down: 531d9070
+pointer returned: 531d9990
+MALLOC CALLED: size = 576
+previous: 531d9970
+previous further down: 531d9970
+pointer returned: 531d9cb0
+
+
+MALLOC CALLED: size = 1112
+previous: 531d9c90
+previous further down: 531d9c90
+pointer returned: 531d9f10
+
+
+
+FREE ptr: 531d9cb0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531d9cb0, current: 531d9c90, current->free 1, current->size: 576, current->next: 531d9ef0, current->previous: 531d9970
+MALLOC CALLED: size = 2208
+previous: 531d9ef0
+previous further down: 531d9ef0
+pointer returned: 531da390
+
+
+
+FREE ptr: 531d9f10
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531d9f10, current: 531d9ef0, current->free 1, current->size: 1120, current->next: 531da370, current->previous: 531d9c90
+MALLOC CALLED: size = 576
+RETURN not at end: 531d9cb0
+
+
+MALLOC CALLED: size = 4632
+previous: 531da370
+previous further down: 531da370
+pointer returned: 531dac50
+
+
+
+FREE ptr: 531da390
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 531da390, current: 531da370, current->free 1, current->size: 2208, current->next: 531dac30, current->previous: 531d9c90
+MALLOC CALLED: size = 1112
+RETURN not at end: 531da390
+
+
+
+FREE ptr: 531d9cb0
+BEFORE: current->free: 0, current->size: 1728
+AFTER: current->free: 1, current->size: 1728
+ptr: 531d9cb0, current: 531d9c90, current->free 1, current->size: 1728, current->next: 531da370, current->previous: 531d9970
+MALLOC CALLED: size = 576
+RETURN not at end: 531d9cb0
+
+
+MALLOC CALLED: size = 1112
+previous: 531dac30
+previous further down: 531dac30
+pointer returned: 531dbe90
+
+
+
+FREE ptr: 531d9cb0
+BEFORE: current->free: 0, current->size: 1728
+AFTER: current->free: 1, current->size: 1728
+ptr: 531d9cb0, current: 531d9c90, current->free 1, current->size: 1728, current->next: 531da370, current->previous: 531d9970
+MALLOC CALLED: size = 576
+RETURN not at end: 531d9cb0
+
+
+MALLOC CALLED: size = 576
+previous: 531dbe70
+previous further down: 531dbe70
+pointer returned: 531dc310
+
+
+MALLOC CALLED: size = 1112
+previous: 531dc2f0
+previous further down: 531dc2f0
+pointer returned: 531dc570
+
+
+
+FREE ptr: 531dc310
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531dc310, current: 531dc2f0, current->free 1, current->size: 576, current->next: 531dc550, current->previous: 531dbe70
+MALLOC CALLED: size = 2208
+previous: 531dc550
+previous further down: 531dc550
+pointer returned: 531dc9f0
+
+
+
+FREE ptr: 531dc570
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531dc570, current: 531dc550, current->free 1, current->size: 1120, current->next: 531dc9d0, current->previous: 531dc2f0
+MALLOC CALLED: size = 576
+RETURN not at end: 531dc310
+
+
+MALLOC CALLED: size = 1112
+previous: 531dc9d0
+previous further down: 531dc9d0
+pointer returned: 531dd2b0
+
+
+
+FREE ptr: 531dc310
+BEFORE: current->free: 0, current->size: 1728
+AFTER: current->free: 1, current->size: 1728
+ptr: 531dc310, current: 531dc2f0, current->free 1, current->size: 1728, current->next: 531dc9d0, current->previous: 531dbe70
+MALLOC CALLED: size = 2208
+previous: 531dd290
+previous further down: 531dd290
+pointer returned: 531dd730
+
+
+
+FREE ptr: 531dd2b0
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531dd2b0, current: 531dd290, current->free 1, current->size: 1120, current->next: 531dd710, current->previous: 531dc9d0
+MALLOC CALLED: size = 576
+RETURN not at end: 531dc310
+
+
+MALLOC CALLED: size = 1112
+RETURN not at end: 531dd2b0
+
+
+
+FREE ptr: 531dc310
+BEFORE: current->free: 0, current->size: 1728
+AFTER: current->free: 1, current->size: 1728
+ptr: 531dc310, current: 531dc2f0, current->free 1, current->size: 1728, current->next: 531dc9d0, current->previous: 531dbe70
+MALLOC CALLED: size = 2208
+previous: 531dd710
+previous further down: 531dd710
+pointer returned: 531ddff0
+
+
+
+FREE ptr: 531dd2b0
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531dd2b0, current: 531dd290, current->free 1, current->size: 1120, current->next: 531dd710, current->previous: 531dc9d0
+MALLOC CALLED: size = 654
+RETURN not at end: 531dc310
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 531dd2b0
+
+
+MALLOC CALLED: size = 1112
+previous: 531ddfd0
+previous further down: 531ddfd0
+pointer returned: 531de8b0
+
+
+
+FREE ptr: 531dd2b0
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531dd2b0, current: 531dd290, current->free 1, current->size: 1120, current->next: 531dd710, current->previous: 531dc9d0
+MALLOC CALLED: size = 2208
+previous: 531de890
+previous further down: 531de890
+pointer returned: 531ded30
+
+
+
+FREE ptr: 531de8b0
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531de8b0, current: 531de890, current->free 1, current->size: 1120, current->next: 531ded10, current->previous: 531ddfd0
+MALLOC CALLED: size = 561
+RETURN not at end: 531dd2b0
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 531de8b0
+
+
+MALLOC CALLED: size = 1112
+previous: 531ded10
+previous further down: 531ded10
+pointer returned: 531df5f0
+
+
+
+FREE ptr: 531de8b0
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531de8b0, current: 531de890, current->free 1, current->size: 1120, current->next: 531ded10, current->previous: 531ddfd0
+MALLOC CALLED: size = 2208
+previous: 531df5d0
+previous further down: 531df5d0
+pointer returned: 531dfa70
+
+
+
+FREE ptr: 531df5f0
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531df5f0, current: 531df5d0, current->free 1, current->size: 1120, current->next: 531dfa50, current->previous: 531ded10
+MALLOC CALLED: size = 576
+RETURN not at end: 531de8b0
+
+
+MALLOC CALLED: size = 1112
+RETURN not at end: 531df5f0
+
+
+
+FREE ptr: 531de8b0
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531de8b0, current: 531de890, current->free 1, current->size: 1120, current->next: 531ded10, current->previous: 531ddfd0
+MALLOC CALLED: size = 9248
+previous: 531dfa50
+previous further down: 531dfa50
+pointer returned: 531e0330
+
+
+
+FREE ptr: 531dac50
+BEFORE: current->free: 0, current->size: 4640
+AFTER: current->free: 1, current->size: 4640
+ptr: 531dac50, current: 531dac30, current->free 1, current->size: 4640, current->next: 531dbe70, current->previous: 531da370
+MALLOC CALLED: size = 576
+RETURN not at end: 531dac50
+
+
+MALLOC CALLED: size = 516
+RETURN not at end: 531de8b0
+
+
+MALLOC CALLED: size = 576
+previous: 531e0310
+previous further down: 531e0310
+pointer returned: 531e2770
+
+
+MALLOC CALLED: size = 1112
+previous: 531e2750
+previous further down: 531e2750
+pointer returned: 531e29d0
+
+
+
+FREE ptr: 531e2770
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531e2770, current: 531e2750, current->free 1, current->size: 576, current->next: 531e29b0, current->previous: 531e0310
+MALLOC CALLED: size = 576
+RETURN not at end: 531e2770
+
+
+MALLOC CALLED: size = 1112
+previous: 531e29b0
+previous further down: 531e29b0
+pointer returned: 531e2e50
+
+
+
+FREE ptr: 531e2770
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531e2770, current: 531e2750, current->free 1, current->size: 576, current->next: 531e29b0, current->previous: 531e0310
+MALLOC CALLED: size = 576
+RETURN not at end: 531e2770
+
+
+MALLOC CALLED: size = 1112
+previous: 531e2e30
+previous further down: 531e2e30
+pointer returned: 531e32d0
+
+
+
+FREE ptr: 531e2770
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531e2770, current: 531e2750, current->free 1, current->size: 576, current->next: 531e29b0, current->previous: 531e0310
+MALLOC CALLED: size = 576
+RETURN not at end: 531e2770
+
+
+MALLOC CALLED: size = 1112
+previous: 531e32b0
+previous further down: 531e32b0
+pointer returned: 531e3750
+
+
+
+FREE ptr: 531e2770
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531e2770, current: 531e2750, current->free 1, current->size: 576, current->next: 531e29b0, current->previous: 531e0310
+MALLOC CALLED: size = 576
+RETURN not at end: 531e2770
+
+
+MALLOC CALLED: size = 1112
+previous: 531e3730
+previous further down: 531e3730
+pointer returned: 531e3bd0
+
+
+
+FREE ptr: 531e2770
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531e2770, current: 531e2750, current->free 1, current->size: 576, current->next: 531e29b0, current->previous: 531e0310
+MALLOC CALLED: size = 576
+RETURN not at end: 531e2770
+
+
+MALLOC CALLED: size = 1112
+previous: 531e3bb0
+previous further down: 531e3bb0
+pointer returned: 531e4050
+
+
+
+FREE ptr: 531e2770
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531e2770, current: 531e2750, current->free 1, current->size: 576, current->next: 531e29b0, current->previous: 531e0310
+MALLOC CALLED: size = 2208
+previous: 531e4030
+previous further down: 531e4030
+pointer returned: 531e44d0
+
+
+
+FREE ptr: 531e4050
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531e4050, current: 531e4030, current->free 1, current->size: 1120, current->next: 531e44b0, current->previous: 531e3bb0
+MALLOC CALLED: size = 576
+RETURN not at end: 531e2770
+
+
+MALLOC CALLED: size = 1112
+RETURN not at end: 531e4050
+
+
+
+FREE ptr: 531e2770
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531e2770, current: 531e2750, current->free 1, current->size: 576, current->next: 531e29b0, current->previous: 531e0310
+MALLOC CALLED: size = 2208
+previous: 531e44b0
+previous further down: 531e44b0
+pointer returned: 531e4d90
+
+
+
+FREE ptr: 531e4050
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531e4050, current: 531e4030, current->free 1, current->size: 1120, current->next: 531e44b0, current->previous: 531e3bb0
+MALLOC CALLED: size = 576
+RETURN not at end: 531e2770
+
+
+MALLOC CALLED: size = 577
+RETURN not at end: 531e4050
+
+
+MALLOC CALLED: size = 1112
+previous: 531e4d70
+previous further down: 531e4d70
+pointer returned: 531e5650
+
+
+
+FREE ptr: 531dac50
+BEFORE: current->free: 0, current->size: 4640
+AFTER: current->free: 1, current->size: 4640
+ptr: 531dac50, current: 531dac30, current->free 1, current->size: 4640, current->next: 531dbe70, current->previous: 531da370
+MALLOC CALLED: size = 576
+RETURN not at end: 531dac50
+
+
+MALLOC CALLED: size = 1112
+previous: 531e5630
+previous further down: 531e5630
+pointer returned: 531e5ad0
+
+
+
+FREE ptr: 531dac50
+BEFORE: current->free: 0, current->size: 4640
+AFTER: current->free: 1, current->size: 4640
+ptr: 531dac50, current: 531dac30, current->free 1, current->size: 4640, current->next: 531dbe70, current->previous: 531da370
+MALLOC CALLED: size = 576
+RETURN not at end: 531dac50
+
+
+MALLOC CALLED: size = 1112
+previous: 531e5ab0
+previous further down: 531e5ab0
+pointer returned: 531e5f50
+
+
+
+FREE ptr: 531dac50
+BEFORE: current->free: 0, current->size: 4640
+AFTER: current->free: 1, current->size: 4640
+ptr: 531dac50, current: 531dac30, current->free 1, current->size: 4640, current->next: 531dbe70, current->previous: 531da370
+MALLOC CALLED: size = 2208
+RETURN not at end: 531dac50
+
+
+
+FREE ptr: 531e5f50
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531e5f50, current: 531e5f30, current->free 1, current->size: -279725402214480, current->next: 541d70e0, current->previous: 531e5ab0
+MALLOC CALLED: size = 576
+previous: 531e5ab0
+previous further down: 531e5ab0
+pointer returned: 531e5f50
+
+
+MALLOC CALLED: size = 1112
+previous: 531e5f30
+previous further down: 531e5f30
+pointer returned: 531e61b0
+
+
+
+FREE ptr: 531e5f50
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531e5f50, current: 531e5f30, current->free 1, current->size: 576, current->next: 531e6190, current->previous: 531e5ab0
+MALLOC CALLED: size = 576
+RETURN not at end: 531e5f50
+
+
+MALLOC CALLED: size = 576
+previous: 531e6190
+previous further down: 531e6190
+pointer returned: 531e6630
+
+
+MALLOC CALLED: size = 1112
+previous: 531e6610
+previous further down: 531e6610
+pointer returned: 531e6890
+
+
+
+FREE ptr: 531e6630
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531e6630, current: 531e6610, current->free 1, current->size: 576, current->next: 531e6870, current->previous: 531e6190
+MALLOC CALLED: size = 576
+RETURN not at end: 531e6630
+
+
+MALLOC CALLED: size = 576
+previous: 531e6870
+previous further down: 531e6870
+pointer returned: 531e6d10
+
+
+MALLOC CALLED: size = 576
+previous: 531e6cf0
+previous further down: 531e6cf0
+pointer returned: 531e6f70
+
+
+MALLOC CALLED: size = 1112
+previous: 531e6f50
+previous further down: 531e6f50
+pointer returned: 531e71d0
+
+
+
+FREE ptr: 531e6f70
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531e6f70, current: 531e6f50, current->free 1, current->size: 576, current->next: 531e71b0, current->previous: 531e6cf0
+MALLOC CALLED: size = 576
+RETURN not at end: 531e6f70
+
+
+MALLOC CALLED: size = 576
+previous: 531e71b0
+previous further down: 531e71b0
+pointer returned: 531e7650
+
+
+MALLOC CALLED: size = 576
+previous: 531e7630
+previous further down: 531e7630
+pointer returned: 531e78b0
+
+
+MALLOC CALLED: size = 576
+previous: 531e7890
+previous further down: 531e7890
+pointer returned: 531e7b10
+
+
+MALLOC CALLED: size = 576
+previous: 531e7af0
+previous further down: 531e7af0
+pointer returned: 531e7d70
+
+
+MALLOC CALLED: size = 576
+previous: 531e7d50
+previous further down: 531e7d50
+pointer returned: 531e7fd0
+
+
+MALLOC CALLED: size = 576
+previous: 531e7fb0
+previous further down: 531e7fb0
+pointer returned: 531e8230
+
+
+MALLOC CALLED: size = 2208
+previous: 531e8210
+previous further down: 531e8210
+pointer returned: 531e8490
+
+
+
+FREE ptr: 531e5650
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531e5650, current: 531e5630, current->free 1, current->size: 1120, current->next: 531e5ab0, current->previous: 531e4d70
+MALLOC CALLED: size = 576
+RETURN not at end: 531e5650
+
+
+MALLOC CALLED: size = 576
+previous: 531e8470
+previous further down: 531e8470
+pointer returned: 531e8d50
+
+
+MALLOC CALLED: size = 576
+previous: 531e8d30
+previous further down: 531e8d30
+pointer returned: 531e8fb0
+
+
+MALLOC CALLED: size = 576
+previous: 531e8f90
+previous further down: 531e8f90
+pointer returned: 531e9210
+
+
+MALLOC CALLED: size = 576
+previous: 531e91f0
+previous further down: 531e91f0
+pointer returned: 531e9470
+
+
+MALLOC CALLED: size = 576
+previous: 531e9450
+previous further down: 531e9450
+pointer returned: 531e96d0
+
+
+MALLOC CALLED: size = 1112
+previous: 531e96b0
+previous further down: 531e96b0
+pointer returned: 531e9930
+
+
+
+FREE ptr: 531e96d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531e96d0, current: 531e96b0, current->free 1, current->size: 576, current->next: 531e9910, current->previous: 531e9450
+MALLOC CALLED: size = 18456
+previous: 531e9910
+previous further down: 531e9910
+pointer returned: 531e9db0
+
+
+
+FREE ptr: 531e0330
+BEFORE: current->free: 0, current->size: 9248
+AFTER: current->free: 1, current->size: 9248
+ptr: 531e0330, current: 531e0310, current->free 1, current->size: 9248, current->next: 531e2750, current->previous: 531dfa50
+MALLOC CALLED: size = 2208
+RETURN not at end: 531e0330
+
+
+
+FREE ptr: 531e9930
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531e9930, current: 531e9910, current->free 1, current->size: 1120, current->next: 531e9d90, current->previous: 531e96b0
+MALLOC CALLED: size = 2208
+previous: 531e9d90
+previous further down: 531e9d90
+pointer returned: 531ee5f0
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 531e96d0
+
+
+MALLOC CALLED: size = 576
+previous: 531ee5d0
+previous further down: 531ee5d0
+pointer returned: 531eeeb0
+
+
+MALLOC CALLED: size = 576
+previous: 531eee90
+previous further down: 531eee90
+pointer returned: 531ef110
+
+
+MALLOC CALLED: size = 4632
+previous: 531ef0f0
+previous further down: 531ef0f0
+pointer returned: 531ef370
+
+
+
+FREE ptr: 531e0330
+BEFORE: current->free: 0, current->size: 9248
+AFTER: current->free: 1, current->size: 9248
+ptr: 531e0330, current: 531e0310, current->free 1, current->size: 9248, current->next: 531e2750, current->previous: 531dfa50
+MALLOC CALLED: size = 576
+RETURN not at end: 531e0330
+
+
+MALLOC CALLED: size = 576
+previous: 531ef350
+previous further down: 531ef350
+pointer returned: 531f05b0
+
+
+MALLOC CALLED: size = 1112
+previous: 531f0590
+previous further down: 531f0590
+pointer returned: 531f0810
+
+
+
+FREE ptr: 531f05b0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531f05b0, current: 531f0590, current->free 1, current->size: 576, current->next: 531f07f0, current->previous: 531ef350
+MALLOC CALLED: size = 3552
+previous: 531f07f0
+previous further down: 531f07f0
+pointer returned: 531f0c90
+
+
+MALLOC CALLED: size = 2208
+previous: 531f0c70
+previous further down: 531f0c70
+pointer returned: 531f1a90
+
+
+
+FREE ptr: 531f0810
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 531f0810, current: 531f07f0, current->free 1, current->size: 1120, current->next: 531f0c70, current->previous: 531f0590
+MALLOC CALLED: size = 8
+RETURN not at end: 531f05b0
+
+
+MALLOC CALLED: size = 20
+previous: 531f1a70
+previous further down: 531f1a70
+pointer returned: 531f2350
+
+
+MALLOC CALLED: size = 20
+previous: 531f2330
+previous further down: 531f2330
+pointer returned: 531f2390
+
+
+MALLOC CALLED: size = 56
+previous: 531f2370
+previous further down: 531f2370
+pointer returned: 531f23d0
+
+
+MALLOC CALLED: size = 396
+previous: 531f23b0
+previous further down: 531f23b0
+pointer returned: 531f2430
+
+
+
+FREE ptr: 531f2430
+BEFORE: current->free: 0, current->size: 400
+AFTER: current->free: 1, current->size: 400
+ptr: 531f2430, current: 531f2410, current->free 1, current->size: -279725402264880, current->next: 541d70e0, current->previous: 531f23b0
+MALLOC CALLED: size = 40
+previous: 531f23b0
+previous further down: 531f23b0
+pointer returned: 531f2430
+
+
+
+FREE ptr: 531f2430
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 531f2430, current: 531f2410, current->free 1, current->size: -279725402264880, current->next: 541d70e0, current->previous: 531f23b0
+MALLOC CALLED: size = 552
+previous: 531f23b0
+previous further down: 531f23b0
+pointer returned: 531f2430
+
+
+
+FREE ptr: 531f2430
+BEFORE: current->free: 0, current->size: 560
+AFTER: current->free: 1, current->size: 560
+ptr: 531f2430, current: 531f2410, current->free 1, current->size: -279725402264880, current->next: 541d70e0, current->previous: 531f23b0
+MALLOC CALLED: size = 552
+previous: 531f23b0
+previous further down: 531f23b0
+pointer returned: 531f2430
+
+
+
+FREE ptr: 531f2430
+BEFORE: current->free: 0, current->size: 560
+AFTER: current->free: 1, current->size: 560
+ptr: 531f2430, current: 531f2410, current->free 1, current->size: -279725402264880, current->next: 541d70e0, current->previous: 531f23b0
+MALLOC CALLED: size = 372
+previous: 531f23b0
+previous further down: 531f23b0
+pointer returned: 531f2430
+
+
+
+FREE ptr: 531f05b0
+BEFORE: current->free: 0, current->size: 1728
+AFTER: current->free: 1, current->size: 1728
+ptr: 531f05b0, current: 531f0590, current->free 1, current->size: 1728, current->next: 531f0c70, current->previous: 531ef350
+
+FREE ptr: 531f2350
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 531f2350, current: 531f2330, current->free 1, current->size: 32, current->next: 531f2370, current->previous: 531f1a70
+
+FREE ptr: 531f2390
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 531f2390, current: 531f2370, current->free 1, current->size: 32, current->next: 531f23b0, current->previous: 531f2330
+
+FREE ptr: 531f23d0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 531f23d0, current: 531f23b0, current->free 1, current->size: 64, current->next: 531f2410, current->previous: 531f2330
+MALLOC CALLED: size = 576
+RETURN not at end: 531f05b0
+
+
+MALLOC CALLED: size = 576
+previous: 531f2410
+previous further down: 531f2410
+pointer returned: 531f25d0
+
+
+MALLOC CALLED: size = 560
+previous: 531f25b0
+previous further down: 531f25b0
+pointer returned: 531f2830
+
+
+MALLOC CALLED: size = 576
+previous: 531f2810
+previous further down: 531f2810
+pointer returned: 531f2a80
+
+
+MALLOC CALLED: size = 40
+RETURN not at end: 531f2350
+
+
+
+FREE ptr: 531f2350
+BEFORE: current->free: 0, current->size: 192
+AFTER: current->free: 1, current->size: 192
+ptr: 531f2350, current: 531f2330, current->free 1, current->size: 192, current->next: 531f2410, current->previous: 531f1a70
+MALLOC CALLED: size = 2208
+previous: 531f2a60
+previous further down: 531f2a60
+pointer returned: 531f2ce0
+
+
+MALLOC CALLED: size = 4632
+previous: 531f2cc0
+previous further down: 531f2cc0
+pointer returned: 531f35a0
+
+
+MALLOC CALLED: size = 576
+previous: 531f3580
+previous further down: 531f3580
+pointer returned: 531f47e0
+
+
+MALLOC CALLED: size = 816
+previous: 531f47c0
+previous further down: 531f47c0
+pointer returned: 531f4a40
+
+
+MALLOC CALLED: size = 576
+previous: 531f4a20
+previous further down: 531f4a20
+pointer returned: 531f4d90
+
+
+previous: 531f4d70
+previous further down: 531f4d70
+pointer returned: 531f4ff0
+previous: 531f4fd0
+previous further down: 531f4fd0
+pointer returned: 531f52d0
+MALLOC CALLED: size = 1537
+previous: 531f52b0
+previous further down: 531f52b0
+pointer returned: 531f5640
+
+
+previous: 531f5620
+previous further down: 531f5620
+pointer returned: 531f5c70
+previous: 531f5c50
+previous further down: 531f5c50
+pointer returned: 531f6080
+MALLOC CALLED: size = 36896
+previous: 531f6060
+previous further down: 531f6060
+pointer returned: 531f6540
+
+
+
+FREE ptr: 531e9db0
+BEFORE: current->free: 0, current->size: 18464
+AFTER: current->free: 1, current->size: 18464
+ptr: 531e9db0, current: 531e9d90, current->free 1, current->size: 18464, current->next: 531ee5d0, current->previous: 531e96b0
+RETURN not at end: 531e9db0
+previous: 531f6520
+previous further down: 531f6520
+pointer returned: 531ff580
+MALLOC CALLED: size = 520
+previous: 531ff560
+previous further down: 531ff560
+pointer returned: 531ffbf0
+
+
+previous: 531ffbd0
+previous further down: 531ffbd0
+pointer returned: 531ffe20
+
+FREE ptr: 531ffe20
+BEFORE: current->free: 0, current->size: 1872
+AFTER: current->free: 1, current->size: 1872
+ptr: 531ffe20, current: 531ffe00, current->free 1, current->size: -279725402320672, current->next: 541d70e0, current->previous: 531ffbd0
+MALLOC CALLED: size = 576
+previous: 531ffbd0
+previous further down: 531ffbd0
+pointer returned: 531ffe20
+
+
+MALLOC CALLED: size = 928
+previous: 531ffe00
+previous further down: 531ffe00
+pointer returned: 53200080
+
+
+MALLOC CALLED: size = 928
+previous: 53200060
+previous further down: 53200060
+pointer returned: 53200440
+
+
+MALLOC CALLED: size = 928
+previous: 53200420
+previous further down: 53200420
+pointer returned: 53200800
+
+
+MALLOC CALLED: size = 928
+previous: 532007e0
+previous further down: 532007e0
+pointer returned: 53200bc0
+
+
+MALLOC CALLED: size = 1112
+previous: 53200ba0
+previous further down: 53200ba0
+pointer returned: 53200f80
+
+
+
+FREE ptr: 531ffe20
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 531ffe20, current: 531ffe00, current->free 1, current->size: 576, current->next: 53200060, current->previous: 531ffbd0
+MALLOC CALLED: size = 928
+previous: 53200f60
+previous further down: 53200f60
+pointer returned: 53201400
+
+
+MALLOC CALLED: size = 928
+previous: 532013e0
+previous further down: 532013e0
+pointer returned: 532017c0
+
+
+MALLOC CALLED: size = 1489
+previous: 532017a0
+previous further down: 532017a0
+pointer returned: 53201b80
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 531ffe20
+
+
+MALLOC CALLED: size = 576
+previous: 53201b60
+previous further down: 53201b60
+pointer returned: 53202180
+
+
+
+FREE ptr: 53202180
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53202180, current: 53202160, current->free 1, current->size: -279725402329728, current->next: 541d70e0, current->previous: 53201b60
+MALLOC CALLED: size = 576
+previous: 53201b60
+previous further down: 53201b60
+pointer returned: 53202180
+
+
+MALLOC CALLED: size = 576
+previous: 53202160
+previous further down: 53202160
+pointer returned: 532023e0
+
+
+MALLOC CALLED: size = 928
+previous: 532023c0
+previous further down: 532023c0
+pointer returned: 53202640
+
+
+MALLOC CALLED: size = 576
+previous: 53202620
+previous further down: 53202620
+pointer returned: 53202a00
+
+
+MALLOC CALLED: size = 718
+previous: 532029e0
+previous further down: 532029e0
+pointer returned: 53202c60
+
+
+
+FREE ptr: 53202a00
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53202a00, current: 532029e0, current->free 1, current->size: 576, current->next: 53202c40, current->previous: 53202620
+
+FREE ptr: 53202180
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53202180, current: 53202160, current->free 1, current->size: 576, current->next: 532023c0, current->previous: 53201b60
+MALLOC CALLED: size = 576
+RETURN not at end: 53202180
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 53202a00
+
+
+MALLOC CALLED: size = 928
+previous: 53202c40
+previous further down: 53202c40
+pointer returned: 53202f50
+
+
+MALLOC CALLED: size = 576
+previous: 53202f30
+previous further down: 53202f30
+pointer returned: 53203310
+
+
+
+FREE ptr: 53203310
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53203310, current: 532032f0, current->free 1, current->size: -279725402334224, current->next: 541d70e0, current->previous: 53202f30
+
+FREE ptr: 53202180
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53202180, current: 53202160, current->free 1, current->size: 576, current->next: 532023c0, current->previous: 53201b60
+MALLOC CALLED: size = 928
+previous: 53202f30
+previous further down: 53202f30
+pointer returned: 53203310
+
+
+MALLOC CALLED: size = 2208
+previous: 532032f0
+previous further down: 532032f0
+pointer returned: 532036d0
+
+
+
+FREE ptr: 53200f80
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 53200f80, current: 53200f60, current->free 1, current->size: 1120, current->next: 532013e0, current->previous: 53200ba0
+
+FREE ptr: 531f4a40
+BEFORE: current->free: 0, current->size: 816
+AFTER: current->free: 1, current->size: 816
+ptr: 531f4a40, current: 531f4a20, current->free 1, current->size: 816, current->next: 531f4d70, current->previous: 531f47c0
+MALLOC CALLED: size = 576
+RETURN not at end: 531f4a40
+
+
+MALLOC CALLED: size = 600
+RETURN not at end: 53200f80
+
+
+MALLOC CALLED: size = 896
+previous: 532036b0
+previous further down: 532036b0
+pointer returned: 53203f90
+
+
+MALLOC CALLED: size = 920
+previous: 53203f70
+previous further down: 53203f70
+pointer returned: 53204330
+
+
+MALLOC CALLED: size = 568
+RETURN not at end: 53202180
+
+
+MALLOC CALLED: size = 576
+previous: 53204310
+previous further down: 53204310
+pointer returned: 532046f0
+
+
+MALLOC CALLED: size = 1
+RETURN not at end: 531f2350
+
+
+MALLOC CALLED: size = 568
+previous: 532046d0
+previous further down: 532046d0
+pointer returned: 53204950
+
+
+MALLOC CALLED: size = 576
+previous: 53204930
+previous further down: 53204930
+pointer returned: 53204bb0
+
+
+MALLOC CALLED: size = 576
+previous: 53204b90
+previous further down: 53204b90
+pointer returned: 53204e10
+
+
+MALLOC CALLED: size = 576
+previous: 53204df0
+previous further down: 53204df0
+pointer returned: 53205070
+
+
+MALLOC CALLED: size = 576
+previous: 53205050
+previous further down: 53205050
+pointer returned: 532052d0
+
+
+MALLOC CALLED: size = 528
+previous: 532052b0
+previous further down: 532052b0
+pointer returned: 53205530
+
+
+MALLOC CALLED: size = 568
+previous: 53205510
+previous further down: 53205510
+pointer returned: 53205760
+
+
+MALLOC CALLED: size = 32
+previous: 53205740
+previous further down: 53205740
+pointer returned: 532059c0
+
+
+MALLOC CALLED: size = 32
+previous: 532059a0
+previous further down: 532059a0
+pointer returned: 53205a00
+
+
+MALLOC CALLED: size = 32
+previous: 532059e0
+previous further down: 532059e0
+pointer returned: 53205a40
+
+
+MALLOC CALLED: size = 552
+previous: 53205a20
+previous further down: 53205a20
+pointer returned: 53205a80
+
+
+MALLOC CALLED: size = 568
+previous: 53205a60
+previous further down: 53205a60
+pointer returned: 53205cd0
+
+
+MALLOC CALLED: size = 704
+previous: 53205cb0
+previous further down: 53205cb0
+pointer returned: 53205f30
+
+
+MALLOC CALLED: size = 537
+previous: 53205f10
+previous further down: 53205f10
+pointer returned: 53206210
+
+
+MALLOC CALLED: size = 848
+previous: 532061f0
+previous further down: 532061f0
+pointer returned: 53206450
+
+
+MALLOC CALLED: size = 576
+previous: 53206430
+previous further down: 53206430
+pointer returned: 532067c0
+
+
+MALLOC CALLED: size = 815
+previous: 532067a0
+previous further down: 532067a0
+pointer returned: 53206a20
+
+
+previous: 53206a00
+previous further down: 53206a00
+pointer returned: 53206d70
+previous: 53206d50
+previous further down: 53206d50
+pointer returned: 53207050
+previous: 53207030
+previous further down: 53207030
+pointer returned: 532073c0
+previous: 532073a0
+previous further down: 532073a0
+pointer returned: 532077d0
+previous: 532077b0
+previous further down: 532077b0
+pointer returned: 53207c90
+previous: 53207c70
+previous further down: 53207c70
+pointer returned: 53208220
+previous: 53208200
+previous further down: 53208200
+pointer returned: 53208890
+previous: 53208870
+previous further down: 53208870
+pointer returned: 53209000
+previous: 53208fe0
+previous further down: 53208fe0
+pointer returned: 53209890
+
+FREE ptr: 53209890
+BEFORE: current->free: 0, current->size: 2480
+AFTER: current->free: 1, current->size: 2480
+ptr: 53209890, current: 53209870, current->free 1, current->size: -279725402360208, current->next: 541d70e0, current->previous: 53208fe0
+MALLOC CALLED: size = 576
+previous: 53208fe0
+previous further down: 53208fe0
+pointer returned: 53209890
+
+
+MALLOC CALLED: size = 1112
+previous: 53209870
+previous further down: 53209870
+pointer returned: 53209af0
+
+
+
+FREE ptr: 53209890
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53209890, current: 53209870, current->free 1, current->size: 576, current->next: 53209ad0, current->previous: 53208fe0
+MALLOC CALLED: size = 928
+previous: 53209ad0
+previous further down: 53209ad0
+pointer returned: 53209f70
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 53209890
+
+
+MALLOC CALLED: size = 576
+previous: 53209f50
+previous further down: 53209f50
+pointer returned: 5320a330
+
+
+
+FREE ptr: 5320a330
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320a330, current: 5320a310, current->free 1, current->size: -279725402362928, current->next: 541d70e0, current->previous: 53209f50
+MALLOC CALLED: size = 928
+previous: 53209f50
+previous further down: 53209f50
+pointer returned: 5320a330
+
+
+MALLOC CALLED: size = 2208
+previous: 5320a310
+previous further down: 5320a310
+pointer returned: 5320a6f0
+
+
+
+FREE ptr: 53209af0
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 53209af0, current: 53209ad0, current->free 1, current->size: 1120, current->next: 53209f50, current->previous: 53209870
+MALLOC CALLED: size = 928
+RETURN not at end: 53209af0
+
+
+MALLOC CALLED: size = 528
+previous: 5320a6d0
+previous further down: 5320a6d0
+pointer returned: 5320afb0
+
+
+MALLOC CALLED: size = 928
+previous: 5320af90
+previous further down: 5320af90
+pointer returned: 5320b1e0
+
+
+MALLOC CALLED: size = 576
+previous: 5320b1c0
+previous further down: 5320b1c0
+pointer returned: 5320b5a0
+
+
+MALLOC CALLED: size = 928
+previous: 5320b580
+previous further down: 5320b580
+pointer returned: 5320b800
+
+
+MALLOC CALLED: size = 928
+previous: 5320b7e0
+previous further down: 5320b7e0
+pointer returned: 5320bbc0
+
+
+MALLOC CALLED: size = 576
+previous: 5320bba0
+previous further down: 5320bba0
+pointer returned: 5320bf80
+
+
+MALLOC CALLED: size = 576
+previous: 5320bf60
+previous further down: 5320bf60
+pointer returned: 5320c1e0
+
+
+MALLOC CALLED: size = 928
+previous: 5320c1c0
+previous further down: 5320c1c0
+pointer returned: 5320c440
+
+
+MALLOC CALLED: size = 576
+previous: 5320c420
+previous further down: 5320c420
+pointer returned: 5320c800
+
+
+
+FREE ptr: 5320c800
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320c800, current: 5320c7e0, current->free 1, current->size: -279725402372352, current->next: 541d70e0, current->previous: 5320c420
+
+FREE ptr: 5320bf80
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320bf80, current: 5320bf60, current->free 1, current->size: 576, current->next: 5320c1c0, current->previous: 5320bba0
+MALLOC CALLED: size = 576
+RETURN not at end: 5320bf80
+
+
+MALLOC CALLED: size = 576
+previous: 5320c420
+previous further down: 5320c420
+pointer returned: 5320c800
+
+
+MALLOC CALLED: size = 928
+previous: 5320c7e0
+previous further down: 5320c7e0
+pointer returned: 5320ca60
+
+
+MALLOC CALLED: size = 576
+previous: 5320ca40
+previous further down: 5320ca40
+pointer returned: 5320ce20
+
+
+
+FREE ptr: 5320ce20
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320ce20, current: 5320ce00, current->free 1, current->size: -279725402373920, current->next: 541d70e0, current->previous: 5320ca40
+
+FREE ptr: 5320bf80
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320bf80, current: 5320bf60, current->free 1, current->size: 576, current->next: 5320c1c0, current->previous: 5320bba0
+MALLOC CALLED: size = 928
+previous: 5320ca40
+previous further down: 5320ca40
+pointer returned: 5320ce20
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 5320bf80
+
+
+MALLOC CALLED: size = 576
+previous: 5320ce00
+previous further down: 5320ce00
+pointer returned: 5320d1e0
+
+
+
+FREE ptr: 5320d1e0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320d1e0, current: 5320d1c0, current->free 1, current->size: -279725402374880, current->next: 541d70e0, current->previous: 5320ce00
+MALLOC CALLED: size = 928
+previous: 5320ce00
+previous further down: 5320ce00
+pointer returned: 5320d1e0
+
+
+MALLOC CALLED: size = 576
+previous: 5320d1c0
+previous further down: 5320d1c0
+pointer returned: 5320d5a0
+
+
+MALLOC CALLED: size = 576
+previous: 5320d580
+previous further down: 5320d580
+pointer returned: 5320d800
+
+
+
+FREE ptr: 5320d800
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320d800, current: 5320d7e0, current->free 1, current->size: -279725402376448, current->next: 541d70e0, current->previous: 5320d580
+MALLOC CALLED: size = 576
+previous: 5320d580
+previous further down: 5320d580
+pointer returned: 5320d800
+
+
+MALLOC CALLED: size = 576
+previous: 5320d7e0
+previous further down: 5320d7e0
+pointer returned: 5320da60
+
+
+MALLOC CALLED: size = 928
+previous: 5320da40
+previous further down: 5320da40
+pointer returned: 5320dcc0
+
+
+MALLOC CALLED: size = 576
+previous: 5320dca0
+previous further down: 5320dca0
+pointer returned: 5320e080
+
+
+
+FREE ptr: 5320e080
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320e080, current: 5320e060, current->free 1, current->size: -279725402378624, current->next: 541d70e0, current->previous: 5320dca0
+
+FREE ptr: 5320d800
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320d800, current: 5320d7e0, current->free 1, current->size: 576, current->next: 5320da40, current->previous: 5320d580
+
+FREE ptr: 53206210
+BEFORE: current->free: 0, current->size: 544
+AFTER: current->free: 1, current->size: 544
+ptr: 53206210, current: 532061f0, current->free 1, current->size: 544, current->next: 53206430, current->previous: 53205f10
+
+FREE ptr: 53206450
+BEFORE: current->free: 0, current->size: 848
+AFTER: current->free: 1, current->size: 848
+ptr: 53206450, current: 53206430, current->free 1, current->size: 848, current->next: 532067a0, current->previous: 532061f0
+
+FREE ptr: 53205a00
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 53205a00, current: 532059e0, current->free 1, current->size: 32, current->next: 53205a20, current->previous: 532059a0
+
+FREE ptr: 53205a40
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 53205a40, current: 53205a20, current->free 1, current->size: 32, current->next: 53205a60, current->previous: 532059e0
+MALLOC CALLED: size = 600
+RETURN not at end: 53206210
+
+
+MALLOC CALLED: size = 1522
+previous: 5320dca0
+previous further down: 5320dca0
+pointer returned: 5320e080
+
+
+MALLOC CALLED: size = 928
+previous: 5320e060
+previous further down: 5320e060
+pointer returned: 5320e6a0
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 5320d800
+
+
+MALLOC CALLED: size = 1112
+previous: 5320e680
+previous further down: 5320e680
+pointer returned: 5320ea60
+
+
+
+FREE ptr: 5320d800
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320d800, current: 5320d7e0, current->free 1, current->size: 576, current->next: 5320da40, current->previous: 5320d580
+MALLOC CALLED: size = 1344
+previous: 5320ea40
+previous further down: 5320ea40
+pointer returned: 5320eee0
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 5320d800
+
+
+MALLOC CALLED: size = 545
+previous: 5320eec0
+previous further down: 5320eec0
+pointer returned: 5320f440
+
+
+MALLOC CALLED: size = 576
+previous: 5320f420
+previous further down: 5320f420
+pointer returned: 5320f690
+
+
+MALLOC CALLED: size = 1112
+previous: 5320f670
+previous further down: 5320f670
+pointer returned: 5320f8f0
+
+
+
+FREE ptr: 5320f690
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320f690, current: 5320f670, current->free 1, current->size: 576, current->next: 5320f8d0, current->previous: 5320f420
+MALLOC CALLED: size = 827
+previous: 5320f8d0
+previous further down: 5320f8d0
+pointer returned: 5320fd70
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 5320f690
+
+
+MALLOC CALLED: size = 1112
+previous: 5320fd50
+previous further down: 5320fd50
+pointer returned: 532100d0
+
+
+
+FREE ptr: 5320f690
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320f690, current: 5320f670, current->free 1, current->size: 576, current->next: 5320f8d0, current->previous: 5320f420
+MALLOC CALLED: size = 4632
+previous: 532100b0
+previous further down: 532100b0
+pointer returned: 53210550
+
+
+
+FREE ptr: 531e8490
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 531e8490, current: 531e8470, current->free 1, current->size: 2208, current->next: 531e8d30, current->previous: 531e8210
+MALLOC CALLED: size = 576
+RETURN not at end: 531e8490
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 5320f690
+
+
+MALLOC CALLED: size = 1112
+previous: 53210530
+previous further down: 53210530
+pointer returned: 53211790
+
+
+
+FREE ptr: 5320f690
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320f690, current: 5320f670, current->free 1, current->size: 576, current->next: 5320f8d0, current->previous: 5320f420
+MALLOC CALLED: size = 576
+RETURN not at end: 5320f690
+
+
+MALLOC CALLED: size = 1112
+previous: 53211770
+previous further down: 53211770
+pointer returned: 53211c10
+
+
+
+FREE ptr: 5320f690
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320f690, current: 5320f670, current->free 1, current->size: 576, current->next: 5320f8d0, current->previous: 5320f420
+MALLOC CALLED: size = 576
+RETURN not at end: 5320f690
+
+
+MALLOC CALLED: size = 576
+previous: 53211bf0
+previous further down: 53211bf0
+pointer returned: 53212090
+
+
+MALLOC CALLED: size = 1112
+previous: 53212070
+previous further down: 53212070
+pointer returned: 532122f0
+
+
+
+FREE ptr: 53212090
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53212090, current: 53212070, current->free 1, current->size: 576, current->next: 532122d0, current->previous: 53211bf0
+MALLOC CALLED: size = 576
+RETURN not at end: 53212090
+
+
+MALLOC CALLED: size = 1112
+previous: 532122d0
+previous further down: 532122d0
+pointer returned: 53212770
+
+
+
+FREE ptr: 53212090
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53212090, current: 53212070, current->free 1, current->size: 576, current->next: 532122d0, current->previous: 53211bf0
+MALLOC CALLED: size = 1393
+previous: 53212750
+previous further down: 53212750
+pointer returned: 53212bf0
+
+
+MALLOC CALLED: size = 1112
+previous: 53212bd0
+previous further down: 53212bd0
+pointer returned: 53213190
+
+
+
+FREE ptr: 5320d800
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320d800, current: 5320d7e0, current->free 1, current->size: 576, current->next: 5320da40, current->previous: 5320d580
+MALLOC CALLED: size = 1238
+previous: 53213170
+previous further down: 53213170
+pointer returned: 53213610
+
+
+MALLOC CALLED: size = 1
+RETURN not at end: 53205a00
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 5320d800
+
+
+MALLOC CALLED: size = 1112
+previous: 532135f0
+previous further down: 532135f0
+pointer returned: 53213b10
+
+
+
+FREE ptr: 5320d800
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320d800, current: 5320d7e0, current->free 1, current->size: 576, current->next: 5320da40, current->previous: 5320d580
+MALLOC CALLED: size = 2208
+previous: 53213af0
+previous further down: 53213af0
+pointer returned: 53213f90
+
+
+
+FREE ptr: 53213b10
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 53213b10, current: 53213af0, current->free 1, current->size: 1120, current->next: 53213f70, current->previous: 532135f0
+MALLOC CALLED: size = 4632
+previous: 53213f70
+previous further down: 53213f70
+pointer returned: 53214850
+
+
+
+FREE ptr: 53213f90
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 53213f90, current: 53213f70, current->free 1, current->size: 2208, current->next: 53214830, current->previous: 53213af0
+MALLOC CALLED: size = 1538
+RETURN not at end: 53213b10
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 5320d800
+
+
+MALLOC CALLED: size = 1112
+previous: 53214830
+previous further down: 53214830
+pointer returned: 53215a90
+
+
+
+FREE ptr: 5320d800
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5320d800, current: 5320d7e0, current->free 1, current->size: 576, current->next: 5320da40, current->previous: 5320d580
+MALLOC CALLED: size = 2208
+previous: 53215a70
+previous further down: 53215a70
+pointer returned: 53215f10
+
+
+
+FREE ptr: 53215a90
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 53215a90, current: 53215a70, current->free 1, current->size: 1120, current->next: 53215ef0, current->previous: 53214830
+MALLOC CALLED: size = 9248
+previous: 53215ef0
+previous further down: 53215ef0
+pointer returned: 532167d0
+
+
+
+FREE ptr: 53214850
+BEFORE: current->free: 0, current->size: 4640
+AFTER: current->free: 1, current->size: 4640
+ptr: 53214850, current: 53214830, current->free 1, current->size: 5792, current->next: 53215ef0, current->previous: 53213af0
+MALLOC CALLED: size = 576
+RETURN not at end: 5320d800
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 53212090
+
+
+MALLOC CALLED: size = 1112
+RETURN not at end: 53214850
+
+
+
+FREE ptr: 53212090
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53212090, current: 53212070, current->free 1, current->size: 576, current->next: 532122d0, current->previous: 53211bf0
+MALLOC CALLED: size = 2144
+previous: 532167b0
+previous further down: 532167b0
+pointer returned: 53218c10
+
+
+
+FREE ptr: 53218c10
+BEFORE: current->free: 0, current->size: 2144
+AFTER: current->free: 1, current->size: 2144
+ptr: 53218c10, current: 53218bf0, current->free 1, current->size: -279725402422544, current->next: 541d70e0, current->previous: 532167b0
+MALLOC CALLED: size = 576
+RETURN not at end: 53212090
+
+
+MALLOC CALLED: size = 1112
+previous: 532167b0
+previous further down: 532167b0
+pointer returned: 53218c10
+
+
+
+FREE ptr: 53212090
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53212090, current: 53212070, current->free 1, current->size: 576, current->next: 532122d0, current->previous: 53211bf0
+MALLOC CALLED: size = 2208
+previous: 53218bf0
+previous further down: 53218bf0
+pointer returned: 53219090
+
+
+
+FREE ptr: 53218c10
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 53218c10, current: 53218bf0, current->free 1, current->size: 1120, current->next: 53219070, current->previous: 532167b0
+MALLOC CALLED: size = 73752
+previous: 53219070
+previous further down: 53219070
+pointer returned: 53219950
+
+
+
+FREE ptr: 531f6540
+BEFORE: current->free: 0, current->size: 36896
+AFTER: current->free: 1, current->size: 36896
+ptr: 531f6540, current: 531f6520, current->free 1, current->size: 36896, current->next: 531ff560, current->previous: 531f6060
+MALLOC CALLED: size = 4632
+RETURN not at end: 531f6540
+
+
+
+FREE ptr: 53219090
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 53219090, current: 53219070, current->free 1, current->size: 2208, current->next: 53219930, current->previous: 53218bf0
+MALLOC CALLED: size = 576
+RETURN not at end: 53212090
+
+
+MALLOC CALLED: size = 680
+RETURN not at end: 53218c10
+
+
+MALLOC CALLED: size = 576
+previous: 53219930
+previous further down: 53219930
+pointer returned: 5322b990
+
+
+MALLOC CALLED: size = 1112
+previous: 5322b970
+previous further down: 5322b970
+pointer returned: 5322bbf0
+
+
+
+FREE ptr: 5322b990
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 5322b990, current: 5322b970, current->free 1, current->size: 576, current->next: 5322bbd0, current->previous: 53219930
+MALLOC CALLED: size = 576
+RETURN not at end: 5322b990
+
+
+MALLOC CALLED: size = 576
+previous: 5322bbd0
+previous further down: 5322bbd0
+pointer returned: 5322c070
+
+
+MALLOC CALLED: size = 576
+previous: 5322c050
+previous further down: 5322c050
+pointer returned: 5322c2d0
+
+
+MALLOC CALLED: size = 576
+previous: 5322c2b0
+previous further down: 5322c2b0
+pointer returned: 5322c530
+
+
+MALLOC CALLED: size = 576
+previous: 5322c510
+previous further down: 5322c510
+pointer returned: 5322c790
+
+
+MALLOC CALLED: size = 9248
+previous: 5322c770
+previous further down: 5322c770
+pointer returned: 5322c9f0
+
+
+MALLOC CALLED: size = 32
+previous: 5322c9d0
+previous further down: 5322c9d0
+pointer returned: 5322ee30
+
+
+MALLOC CALLED: size = 32
+previous: 5322ee10
+previous further down: 5322ee10
+pointer returned: 5322ee70
+
+
+MALLOC CALLED: size = 576
+previous: 5322ee50
+previous further down: 5322ee50
+pointer returned: 5322eeb0
+
+
+MALLOC CALLED: size = 523
+previous: 5322ee90
+previous further down: 5322ee90
+pointer returned: 5322f110
+
+
+MALLOC CALLED: size = 640
+previous: 5322f0f0
+previous further down: 5322f0f0
+pointer returned: 5322f340
+
+
+MALLOC CALLED: size = 928
+previous: 5322f320
+previous further down: 5322f320
+pointer returned: 5322f5e0
+
+
+
+FREE ptr: 5322ee30
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5322ee30, current: 5322ee10, current->free 1, current->size: 32, current->next: 5322ee50, current->previous: 5322c9d0
+
+FREE ptr: 5322ee70
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5322ee70, current: 5322ee50, current->free 1, current->size: 32, current->next: 5322ee90, current->previous: 5322ee10
+MALLOC CALLED: size = 8192
+previous: 5322f5c0
+previous further down: 5322f5c0
+pointer returned: 5322f9a0
+
+
+MALLOC CALLED: size = 32
+RETURN not at end: 5322ee30
+
+
+MALLOC CALLED: size = 32
+previous: 5322f980
+previous further down: 5322f980
+pointer returned: 532319c0
+
+
+MALLOC CALLED: size = 32
+previous: 532319a0
+previous further down: 532319a0
+pointer returned: 53231a00
+
+
+MALLOC CALLED: size = 32
+previous: 532319e0
+previous further down: 532319e0
+pointer returned: 53231a40
+
+
+MALLOC CALLED: size = 520
+previous: 53231a20
+previous further down: 53231a20
+pointer returned: 53231a80
+
+
+MALLOC CALLED: size = 584
+previous: 53231a60
+previous further down: 53231a60
+pointer returned: 53231cb0
+
+
+MALLOC CALLED: size = 528
+previous: 53231c90
+previous further down: 53231c90
+pointer returned: 53231f20
+
+
+MALLOC CALLED: size = 520
+previous: 53231f00
+previous further down: 53231f00
+pointer returned: 53232150
+
+
+MALLOC CALLED: size = 104
+previous: 53232130
+previous further down: 53232130
+pointer returned: 53232380
+
+
+
+FREE ptr: 53232380
+BEFORE: current->free: 0, current->size: 112
+AFTER: current->free: 1, current->size: 112
+ptr: 53232380, current: 53232360, current->free 1, current->size: -279725402526848, current->next: 541d70e0, current->previous: 53232130
+MALLOC CALLED: size = 640
+previous: 53232130
+previous further down: 53232130
+pointer returned: 53232380
+
+
+MALLOC CALLED: size = 584
+previous: 53232360
+previous further down: 53232360
+pointer returned: 53232620
+
+
+MALLOC CALLED: size = 32816
+previous: 53232600
+previous further down: 53232600
+pointer returned: 53232890
+
+
+MALLOC CALLED: size = 48
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 52
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 48
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 48
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 48
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 76
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 80
+AFTER: current->free: 1, current->size: 80
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 44
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 24
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 44
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 44
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 44
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 16
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 40
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 68
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 80
+AFTER: current->free: 1, current->size: 80
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 44
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 40
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 52
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 32
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 48
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 40
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 44
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 48
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 56
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 44
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 52
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 56
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 48
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 40
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 44
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 24
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 40
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 32
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 60
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 32
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 56
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 56
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 52
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 60
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 44
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 56
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 40
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 32
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 36
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 20
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 28
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 64
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 28
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 40
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 28
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 44
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 28
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 52
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 40
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 72
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 80
+AFTER: current->free: 1, current->size: 80
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 36
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 116
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 128
+AFTER: current->free: 1, current->size: 128
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 32
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 48
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 32
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+
+FREE ptr: 5323a8e0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323a8e0, current: 5323a8c0, current->free 1, current->size: -279725402560992, current->next: 541d70e0, current->previous: 53232870
+MALLOC CALLED: size = 576
+previous: 53232870
+previous further down: 53232870
+pointer returned: 5323a8e0
+
+
+MALLOC CALLED: size = 36
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 64
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 52
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 60
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 20
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 172
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 176
+AFTER: current->free: 1, current->size: 176
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 32
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 36
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 60
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 40
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 44
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 48
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 36
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+MALLOC CALLED: size = 24
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+
+
+
+FREE ptr: 5323ab40
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ab40, current: 5323ab20, current->free 1, current->size: -279725402561600, current->next: 541d70e0, current->previous: 5323a8c0
+previous: 5323a8c0
+previous further down: 5323a8c0
+pointer returned: 5323ab40
+MALLOC CALLED: size = 36
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 40
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 44
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 56
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 64
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 40
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 40
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 28
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 64
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 36
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 52
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 28
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 32
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 52
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 16
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 16
+AFTER: current->free: 1, current->size: 16
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+MALLOC CALLED: size = 48
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+
+
+
+FREE ptr: 5323ae20
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ae20, current: 5323ae00, current->free 1, current->size: -279725402562336, current->next: 541d70e0, current->previous: 5323ab20
+previous: 5323ab20
+previous further down: 5323ab20
+pointer returned: 5323ae20
+MALLOC CALLED: size = 40
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 36
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 36
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 28
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 72
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 80
+AFTER: current->free: 1, current->size: 80
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 40
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 64
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 40
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 52
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 60
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 44
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 20
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 40
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 48
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 20
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 32
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 52
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+MALLOC CALLED: size = 40
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+
+
+
+FREE ptr: 5323b190
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b190, current: 5323b170, current->free 1, current->size: -279725402563216, current->next: 541d70e0, current->previous: 5323ae00
+previous: 5323ae00
+previous further down: 5323ae00
+pointer returned: 5323b190
+MALLOC CALLED: size = 52
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 48
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 40
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 44
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 36
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 48
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 40
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 48
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 36
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 44
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 68
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 80
+AFTER: current->free: 1, current->size: 80
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 32
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 44
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 52
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 40
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 40
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 44
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 56
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 60
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+MALLOC CALLED: size = 32
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+
+
+
+FREE ptr: 5323b5a0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323b5a0, current: 5323b580, current->free 1, current->size: -279725402564256, current->next: 541d70e0, current->previous: 5323b170
+previous: 5323b170
+previous further down: 5323b170
+pointer returned: 5323b5a0
+MALLOC CALLED: size = 40
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 36
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 32
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 28
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 24
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 68
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 80
+AFTER: current->free: 1, current->size: 80
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 44
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 40
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 52
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 36
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 28
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 36
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 32
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 28
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 60
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 44
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 44
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 48
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 36
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 60
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 44
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+MALLOC CALLED: size = 68
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+
+
+
+FREE ptr: 5323ba60
+BEFORE: current->free: 0, current->size: 80
+AFTER: current->free: 1, current->size: 80
+ptr: 5323ba60, current: 5323ba40, current->free 1, current->size: -279725402565472, current->next: 541d70e0, current->previous: 5323b580
+previous: 5323b580
+previous further down: 5323b580
+pointer returned: 5323ba60
+MALLOC CALLED: size = 40
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 44
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 48
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 52
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 48
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 44
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 44
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 80
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 80
+AFTER: current->free: 1, current->size: 80
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 44
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 32
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 32
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 20
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 28
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 32
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 56
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 28
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 40
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 56
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 40
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 40
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 44
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 44
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 24
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 52
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+MALLOC CALLED: size = 40
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+
+
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: -279725402566896, current->next: 541d70e0, current->previous: 5323ba40
+previous: 5323ba40
+previous further down: 5323ba40
+pointer returned: 5323bff0
+MALLOC CALLED: size = 48
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 40
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 48
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 28
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 36
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 44
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 28
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 40
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 28
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 40
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 60
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 56
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 64
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 80
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 80
+AFTER: current->free: 1, current->size: 80
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 32
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 48
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 36
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 28
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 36
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 28
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 40
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 40
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 60
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 64
+AFTER: current->free: 1, current->size: 64
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 40
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+MALLOC CALLED: size = 48
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 5323c660
+BEFORE: current->free: 0, current->size: 48
+AFTER: current->free: 1, current->size: 48
+ptr: 5323c660, current: 5323c640, current->free 1, current->size: -279725402568544, current->next: 541d70e0, current->previous: 5323bfd0
+
+FREE ptr: 53232890
+BEFORE: current->free: 0, current->size: 32816
+AFTER: current->free: 1, current->size: 32816
+ptr: 53232890, current: 53232870, current->free 1, current->size: 32816, current->next: 5323a8c0, current->previous: 53232600
+MALLOC CALLED: size = 2048
+RETURN not at end: 53232890
+
+
+MALLOC CALLED: size = 8192
+previous: 5323bfd0
+previous further down: 5323bfd0
+pointer returned: 5323c660
+
+
+
+FREE ptr: 53232890
+BEFORE: current->free: 0, current->size: 32816
+AFTER: current->free: 1, current->size: 32816
+ptr: 53232890, current: 53232870, current->free 1, current->size: 32816, current->next: 5323a8c0, current->previous: 53232600
+
+FREE ptr: 5323bff0
+BEFORE: current->free: 0, current->size: 1616
+AFTER: current->free: 1, current->size: 1616
+ptr: 5323bff0, current: 5323bfd0, current->free 1, current->size: 1616, current->next: 5323c640, current->previous: 5323ba40
+MALLOC CALLED: size = 104
+RETURN not at end: 53232890
+
+
+
+FREE ptr: 53232890
+BEFORE: current->free: 0, current->size: 32816
+AFTER: current->free: 1, current->size: 32816
+ptr: 53232890, current: 53232870, current->free 1, current->size: 32816, current->next: 5323a8c0, current->previous: 53232600
+MALLOC CALLED: size = 104
+RETURN not at end: 53232890
+
+
+
+FREE ptr: 53232890
+BEFORE: current->free: 0, current->size: 32816
+AFTER: current->free: 1, current->size: 32816
+ptr: 53232890, current: 53232870, current->free 1, current->size: 32816, current->next: 5323a8c0, current->previous: 53232600
+MALLOC CALLED: size = 104
+RETURN not at end: 53232890
+
+
+
+FREE ptr: 53232890
+BEFORE: current->free: 0, current->size: 32816
+AFTER: current->free: 1, current->size: 32816
+ptr: 53232890, current: 53232870, current->free 1, current->size: 32816, current->next: 5323a8c0, current->previous: 53232600
+MALLOC CALLED: size = 632
+RETURN not at end: 53232890
+
+
+MALLOC CALLED: size = 544
+RETURN not at end: 5323bff0
+
+
+MALLOC CALLED: size = 832
+previous: 5323c640
+previous further down: 5323c640
+pointer returned: 5323e680
+
+
+MALLOC CALLED: size = 3964
+previous: 5323e660
+previous further down: 5323e660
+pointer returned: 5323e9e0
+
+
+previous: 5323e9c0
+previous further down: 5323e9c0
+pointer returned: 5323f980
+MALLOC CALLED: size = 648
+previous: 5323f960
+previous further down: 5323f960
+pointer returned: 53240920
+
+
+MALLOC CALLED: size = 3951
+previous: 53240900
+previous further down: 53240900
+pointer returned: 53240bd0
+
+
+MALLOC CALLED: size = 1124
+previous: 53240bb0
+previous further down: 53240bb0
+pointer returned: 53241b60
+
+
+MALLOC CALLED: size = 685
+previous: 53241b40
+previous further down: 53241b40
+pointer returned: 53241ff0
+
+
+MALLOC CALLED: size = 576
+previous: 53241fd0
+previous further down: 53241fd0
+pointer returned: 532422c0
+
+
+
+FREE ptr: 532422c0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532422c0, current: 532422a0, current->free 1, current->size: -279725402592192, current->next: 541d70e0, current->previous: 53241fd0
+
+FREE ptr: 5323f980
+BEFORE: current->free: 0, current->size: 3968
+AFTER: current->free: 1, current->size: 3968
+ptr: 5323f980, current: 5323f960, current->free 1, current->size: 3968, current->next: 53240900, current->previous: 5323e9c0
+
+FREE ptr: 53240bd0
+BEFORE: current->free: 0, current->size: 3952
+AFTER: current->free: 1, current->size: 3952
+ptr: 53240bd0, current: 53240bb0, current->free 1, current->size: 3952, current->next: 53241b40, current->previous: 53240900
+MALLOC CALLED: size = 528
+RETURN not at end: 5323f980
+
+
+MALLOC CALLED: size = 32
+RETURN not at end: 53240bd0
+
+
+MALLOC CALLED: size = 32
+previous: 53241fd0
+previous further down: 53241fd0
+pointer returned: 532422c0
+
+
+MALLOC CALLED: size = 568
+previous: 532422a0
+previous further down: 532422a0
+pointer returned: 53242300
+
+
+MALLOC CALLED: size = 33934
+previous: 532422e0
+previous further down: 532422e0
+pointer returned: 53242560
+
+
+previous: 53242540
+previous further down: 53242540
+pointer returned: 5324aa10
+MALLOC CALLED: size = 33921
+previous: 5324a9f0
+previous further down: 5324a9f0
+pointer returned: 53252ec0
+
+
+MALLOC CALLED: size = 707
+previous: 53252ea0
+previous further down: 53252ea0
+pointer returned: 5325b370
+
+
+MALLOC CALLED: size = 816
+previous: 5325b350
+previous further down: 5325b350
+pointer returned: 5325b660
+
+
+MALLOC CALLED: size = 576
+previous: 5325b640
+previous further down: 5325b640
+pointer returned: 5325b9b0
+
+
+MALLOC CALLED: size = 1130
+previous: 5325b990
+previous further down: 5325b990
+pointer returned: 5325bc10
+
+
+MALLOC CALLED: size = 596
+previous: 5325bbf0
+previous further down: 5325bbf0
+pointer returned: 5325c0a0
+
+
+MALLOC CALLED: size = 803
+previous: 5325c080
+previous further down: 5325c080
+pointer returned: 5325c320
+
+
+previous: 5325c300
+previous further down: 5325c300
+pointer returned: 5325c670
+MALLOC CALLED: size = 570
+previous: 5325c650
+previous further down: 5325c650
+pointer returned: 5325c950
+
+
+MALLOC CALLED: size = 936
+previous: 5325c930
+previous further down: 5325c930
+pointer returned: 5325cbb0
+
+
+previous: 5325cb90
+previous further down: 5325cb90
+pointer returned: 5325cf80
+MALLOC CALLED: size = 702
+previous: 5325cf60
+previous further down: 5325cf60
+pointer returned: 5325d2f0
+
+
+previous: 5325d2d0
+previous further down: 5325d2d0
+pointer returned: 5325d5d0
+MALLOC CALLED: size = 1309
+previous: 5325d5b0
+previous further down: 5325d5b0
+pointer returned: 5325d9e0
+
+
+previous: 5325d9c0
+previous further down: 5325d9c0
+pointer returned: 5325df20
+previous: 5325df00
+previous further down: 5325df00
+pointer returned: 5325e3e0
+MALLOC CALLED: size = 627
+previous: 5325e3c0
+previous further down: 5325e3c0
+pointer returned: 5325e970
+
+
+MALLOC CALLED: size = 794
+previous: 5325e950
+previous further down: 5325e950
+pointer returned: 5325ec10
+
+
+MALLOC CALLED: size = 1135
+previous: 5325ebf0
+previous further down: 5325ebf0
+pointer returned: 5325ef50
+
+
+MALLOC CALLED: size = 1035
+previous: 5325ef30
+previous further down: 5325ef30
+pointer returned: 5325f3e0
+
+
+previous: 5325f3c0
+previous further down: 5325f3c0
+pointer returned: 5325f810
+MALLOC CALLED: size = 528
+previous: 5325f7f0
+previous further down: 5325f7f0
+pointer returned: 5325fe80
+
+
+
+FREE ptr: 5325f810
+BEFORE: current->free: 0, current->size: 1616
+AFTER: current->free: 1, current->size: 1616
+ptr: 5325f810, current: 5325f7f0, current->free 1, current->size: 1616, current->next: 5325fe60, current->previous: 5325f3c0
+
+FREE ptr: 5324aa10
+BEFORE: current->free: 0, current->size: 33936
+AFTER: current->free: 1, current->size: 33936
+ptr: 5324aa10, current: 5324a9f0, current->free 1, current->size: 33936, current->next: 53252ea0, current->previous: 53242540
+
+FREE ptr: 53252ec0
+BEFORE: current->free: 0, current->size: 33936
+AFTER: current->free: 1, current->size: 33936
+ptr: 53252ec0, current: 53252ea0, current->free 1, current->size: 33936, current->next: 5325b350, current->previous: 5324a9f0
+MALLOC CALLED: size = 872
+RETURN not at end: 5324aa10
+
+
+MALLOC CALLED: size = 528
+RETURN not at end: 5325f810
+
+
+MALLOC CALLED: size = 32
+previous: 5325fe60
+previous further down: 5325fe60
+pointer returned: 532600b0
+
+
+MALLOC CALLED: size = 32
+previous: 53260090
+previous further down: 53260090
+pointer returned: 532600f0
+
+
+MALLOC CALLED: size = 568
+previous: 532600d0
+previous further down: 532600d0
+pointer returned: 53260130
+
+
+MALLOC CALLED: size = 576
+previous: 53260110
+previous further down: 53260110
+pointer returned: 53260390
+
+
+MALLOC CALLED: size = 1112
+previous: 53260370
+previous further down: 53260370
+pointer returned: 532605f0
+
+
+
+FREE ptr: 53260390
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53260390, current: 53260370, current->free 1, current->size: 576, current->next: 532605d0, current->previous: 53260110
+MALLOC CALLED: size = 2208
+previous: 532605d0
+previous further down: 532605d0
+pointer returned: 53260a70
+
+
+
+FREE ptr: 532605f0
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 532605f0, current: 532605d0, current->free 1, current->size: 1120, current->next: 53260a50, current->previous: 53260370
+MALLOC CALLED: size = 2208
+previous: 53260a50
+previous further down: 53260a50
+pointer returned: 53261330
+
+
+
+FREE ptr: 532600b0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 532600b0, current: 53260090, current->free 1, current->size: 32, current->next: 532600d0, current->previous: 5325fe60
+
+FREE ptr: 532600f0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 532600f0, current: 532600d0, current->free 1, current->size: 32, current->next: 53260110, current->previous: 53260090
+MALLOC CALLED: size = 608
+RETURN not at end: 53260390
+
+
+MALLOC CALLED: size = 576
+previous: 53261310
+previous further down: 53261310
+pointer returned: 53261bf0
+
+
+MALLOC CALLED: size = 1112
+previous: 53261bd0
+previous further down: 53261bd0
+pointer returned: 53261e50
+
+
+
+FREE ptr: 53261bf0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53261bf0, current: 53261bd0, current->free 1, current->size: 576, current->next: 53261e30, current->previous: 53261310
+MALLOC CALLED: size = 2208
+previous: 53261e30
+previous further down: 53261e30
+pointer returned: 532622d0
+
+
+
+FREE ptr: 53261e50
+BEFORE: current->free: 0, current->size: 1120
+AFTER: current->free: 1, current->size: 1120
+ptr: 53261e50, current: 53261e30, current->free 1, current->size: 1120, current->next: 532622b0, current->previous: 53261bd0
+MALLOC CALLED: size = 928
+RETURN not at end: 53261bf0
+
+
+MALLOC CALLED: size = 928
+previous: 532622b0
+previous further down: 532622b0
+pointer returned: 53262b90
+
+
+MALLOC CALLED: size = 1082
+previous: 53262b70
+previous further down: 53262b70
+pointer returned: 53262f50
+
+
+MALLOC CALLED: size = 928
+previous: 53262f30
+previous further down: 53262f30
+pointer returned: 532633b0
+
+
+MALLOC CALLED: size = 928
+previous: 53263390
+previous further down: 53263390
+pointer returned: 53263770
+
+
+MALLOC CALLED: size = 928
+previous: 53263750
+previous further down: 53263750
+pointer returned: 53263b30
+
+
+MALLOC CALLED: size = 928
+previous: 53263b10
+previous further down: 53263b10
+pointer returned: 53263ef0
+
+
+MALLOC CALLED: size = 928
+previous: 53263ed0
+previous further down: 53263ed0
+pointer returned: 532642b0
+
+
+MALLOC CALLED: size = 576
+previous: 53264290
+previous further down: 53264290
+pointer returned: 53264670
+
+
+MALLOC CALLED: size = 576
+previous: 53264650
+previous further down: 53264650
+pointer returned: 532648d0
+
+
+MALLOC CALLED: size = 576
+previous: 532648b0
+previous further down: 532648b0
+pointer returned: 53264b30
+
+
+MALLOC CALLED: size = 928
+previous: 53264b10
+previous further down: 53264b10
+pointer returned: 53264d90
+
+
+MALLOC CALLED: size = 576
+previous: 53264d70
+previous further down: 53264d70
+pointer returned: 53265150
+
+
+
+FREE ptr: 53265150
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53265150, current: 53265130, current->free 1, current->size: -279725402735184, current->next: 541d70e0, current->previous: 53264d70
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 576
+RETURN not at end: 532648d0
+
+
+MALLOC CALLED: size = 576
+previous: 53264d70
+previous further down: 53264d70
+pointer returned: 53265150
+
+
+MALLOC CALLED: size = 928
+previous: 53265130
+previous further down: 53265130
+pointer returned: 532653b0
+
+
+MALLOC CALLED: size = 576
+previous: 53265390
+previous further down: 53265390
+pointer returned: 53265770
+
+
+
+FREE ptr: 53265770
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53265770, current: 53265750, current->free 1, current->size: -279725402736752, current->next: 541d70e0, current->previous: 53265390
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 576
+RETURN not at end: 532648d0
+
+
+MALLOC CALLED: size = 576
+previous: 53265390
+previous further down: 53265390
+pointer returned: 53265770
+
+
+MALLOC CALLED: size = 928
+previous: 53265750
+previous further down: 53265750
+pointer returned: 532659d0
+
+
+MALLOC CALLED: size = 579
+previous: 532659b0
+previous further down: 532659b0
+pointer returned: 53265d90
+
+
+MALLOC CALLED: size = 576
+previous: 53265d70
+previous further down: 53265d70
+pointer returned: 53266000
+
+
+
+FREE ptr: 53266000
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 53266000, current: 53265fe0, current->free 1, current->size: -279725402738944, current->next: 541d70e0, current->previous: 53265d70
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 4632
+previous: 53265d70
+previous further down: 53265d70
+pointer returned: 53266000
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+
+FREE ptr: 5325b370
+BEFORE: current->free: 0, current->size: 720
+AFTER: current->free: 1, current->size: 720
+ptr: 5325b370, current: 5325b350, current->free 1, current->size: 720, current->next: 5325b640, current->previous: 5324a9f0
+
+FREE ptr: 5325b660
+BEFORE: current->free: 0, current->size: 816
+AFTER: current->free: 1, current->size: 816
+ptr: 5325b660, current: 5325b640, current->free 1, current->size: 816, current->next: 5325b990, current->previous: 5325b350
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 528
+AFTER: current->free: 1, current->size: 528
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+
+FREE ptr: 5324aa10
+BEFORE: current->free: 0, current->size: 67904
+AFTER: current->free: 1, current->size: 67904
+ptr: 5324aa10, current: 5324a9f0, current->free 1, current->size: 69504, current->next: 5325b990, current->previous: 53242540
+
+FREE ptr: 53240bd0
+BEFORE: current->free: 0, current->size: 3952
+AFTER: current->free: 1, current->size: 3952
+ptr: 53240bd0, current: 53240bb0, current->free 1, current->size: 3952, current->next: 53241b40, current->previous: 53240900
+
+FREE ptr: 532422c0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 532422c0, current: 532422a0, current->free 1, current->size: 32, current->next: 532422e0, current->previous: 53241fd0
+MALLOC CALLED: size = 576
+RETURN not at end: 53240bd0
+
+
+MALLOC CALLED: size = 32
+RETURN not at end: 532422c0
+
+
+MALLOC CALLED: size = 32
+RETURN not at end: 5324aa10
+
+
+MALLOC CALLED: size = 32816
+previous: 53265fe0
+previous further down: 53265fe0
+pointer returned: 53267240
+
+
+MALLOC CALLED: size = 48
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 52
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 56
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 32
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 28
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 52
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 60
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 64
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 44
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 52
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 64
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 32
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 52
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 32
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 64
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 64
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 52
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 52
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 64
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 72
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 48
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 56
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 52
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 36
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 72
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 56
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 48
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 64
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 40
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 64
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 52
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 52
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 72
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 52
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 52
+RETURN not at end: 5325fe80
+
+
+
+FREE ptr: 5325fe80
+BEFORE: current->free: 0, current->size: 656
+AFTER: current->free: 1, current->size: 656
+ptr: 5325fe80, current: 5325fe60, current->free 1, current->size: 656, current->next: 53260110, current->previous: 5325f7f0
+MALLOC CALLED: size = 576
+RETURN not at end: 5325fe80
+
+
+MALLOC CALLED: size = 64
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 36
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 36
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 36
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 36
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 44
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 56
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 36
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 56
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 44
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 44
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 40
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 52
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+MALLOC CALLED: size = 36
+RETURN not at end: 532622d0
+
+
+
+FREE ptr: 532622d0
+BEFORE: current->free: 0, current->size: 2208
+AFTER: current->free: 1, current->size: 2208
+ptr: 532622d0, current: 532622b0, current->free 1, current->size: 2208, current->next: 53262b70, current->previous: 53261bd0
+RETURN not at end: 532622d0
+MALLOC CALLED: size = 56
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 40
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 44
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 40
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 40
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 40
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 36
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 52
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 40
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 88
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 52
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 40
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 44
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 36
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 52
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 52
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+previous: 53267220
+previous further down: 53267220
+pointer returned: 5326f290
+MALLOC CALLED: size = 60
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 44
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 76
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 56
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 40
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 40
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 56
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 52
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 36
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 24
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 52
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 64
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 36
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 40
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 64
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 36
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 36
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 48
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+previous: 5326f270
+previous further down: 5326f270
+pointer returned: 5326f600
+MALLOC CALLED: size = 52
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 40
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 56
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 52
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 36
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 52
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 56
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 52
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 36
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 36
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 80
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 72
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 64
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 28
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 40
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 36
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 56
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 52
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+MALLOC CALLED: size = 36
+RETURN not at end: 532648d0
+
+
+
+FREE ptr: 532648d0
+BEFORE: current->free: 0, current->size: 576
+AFTER: current->free: 1, current->size: 576
+ptr: 532648d0, current: 532648b0, current->free 1, current->size: 576, current->next: 53264b10, current->previous: 53264650
+
+FREE ptr: 53267240
+BEFORE: current->free: 0, current->size: 32816
+AFTER: current->free: 1, current->size: 32816
+ptr: 53267240, current: 53267220, current->free 1, current->size: 32816, current->next: 5326f270, current->previous: 53265fe0
+MALLOC CALLED: size = 2048
+RETURN not at end: 53267240
+
+
+MALLOC CALLED: size = 8192
+previous: 5326f5e0
+previous further down: 5326f5e0
+pointer returned: 5326fa10
+
+
+
+FREE ptr: 53267240
+BEFORE: current->free: 0, current->size: 32816
+AFTER: current->free: 1, current->size: 32816
+ptr: 53267240, current: 53267220, current->free 1, current->size: 32816, current->next: 5326f270, current->previous: 53265fe0
+
+FREE ptr: 5326f600
+BEFORE: current->free: 0, current->size: 1008
+AFTER: current->free: 1, current->size: 1008
+ptr: 5326f600, current: 5326f5e0, current->free 1, current->size: 1008, current->next: 5326f9f0, current->previous: 5326f270
+MALLOC CALLED: size = 6308
+RETURN not at end: 53267240
+
+
+previous: 5326f9f0
+previous further down: 5326f9f0
+pointer returned: 53271a30
+MALLOC CALLED: size = 6295
+previous: 53271a10
+previous further down: 53271a10
+pointer returned: 53273300
+
+
+MALLOC CALLED: size = 695
+RETURN not at end: 5326f600
+
+
+MALLOC CALLED: size = 864
+previous: 532732e0
+previous further down: 532732e0
+pointer returned: 53274bc0
+
+
+MALLOC CALLED: size = 621
+previous: 53274ba0
+previous further down: 53274ba0
+pointer returned: 53274f40
+
+
+MALLOC CALLED: size = 576
+RETURN not at end: 532648d0
+
+
+previous: 53274f20
+previous further down: 53274f20
+pointer returned: 532751d0
+previous: 532751b0
+previous further down: 532751b0
+pointer returned: 532754b0
+MALLOC CALLED: size = 2632
+previous: 53275490
+previous further down: 53275490
+pointer returned: 53275820
+
+
+previous: 53275800
+previous further down: 53275800
+pointer returned: 53276290
+previous: 53276270
+previous further down: 53276270
+pointer returned: 532766a0
+previous: 53276680
+previous further down: 53276680
+pointer returned: 53276b60
+previous: 53276b40
+previous further down: 53276b40
+pointer returned: 532770f0
+previous: 532770d0
+previous further down: 532770d0
+pointer returned: 53277760
+previous: 53277740
+previous further down: 53277740
+pointer returned: 53277ed0
+previous: 53277eb0
+previous further down: 53277eb0
+pointer returned: 53278760
+previous: 53278740
+previous further down: 53278740
+pointer returned: 53279130
+previous: 53279110
+previous further down: 53279110
+pointer returned: 53279c60
+previous: 53279c40
+previous further down: 53279c40
+pointer returned: 5327a930
+MALLOC CALLED: size = 679
+previous: 5327a910
+previous further down: 5327a910
+pointer returned: 5327b7c0
+
+
+
+FREE ptr: 5327a930
+BEFORE: current->free: 0, current->size: 3696
+AFTER: current->free: 1, current->size: 3696
+ptr: 5327a930, current: 5327a910, current->free 1, current->size: 3696, current->next: 5327b7a0, current->previous: 53279c40
+
+FREE ptr: 53271a30
+BEFORE: current->free: 0, current->size: 6320
+AFTER: current->free: 1, current->size: 6320
+ptr: 53271a30, current: 53271a10, current->free 1, current->size: 6320, current->next: 532732e0, current->previous: 5326f9f0
+
+FREE ptr: 53273300
+BEFORE: current->free: 0, current->size: 6304
+AFTER: current->free: 1, current->size: 6304
+ptr: 53273300, current: 532732e0, current->free 1, current->size: 6304, current->next: 53274ba0, current->previous: 53271a10
+MALLOC CALLED: size = 3000
+RETURN not at end: 53271a30
+
+
+MALLOC CALLED: size = 9248
+previous: 5327b7a0
+previous further down: 5327b7a0
+pointer returned: 5327ba90
+
+
+
+FREE ptr: 5326f600
+BEFORE: current->free: 0, current->size: 1008
+AFTER: current->free: 1, current->size: 1008
+ptr: 5326f600, current: 5326f5e0, current->free 1, current->size: 1008, current->next: 5326f9f0, current->previous: 5326f270
+
+FREE ptr: 53275820
+BEFORE: current->free: 0, current->size: 2640
+AFTER: current->free: 1, current->size: 2640
+ptr: 53275820, current: 53275800, current->free 1, current->size: 2640, current->next: 53276270, current->previous: 53275490
+
+FREE ptr: 53274bc0
+BEFORE: current->free: 0, current->size: 864
+AFTER: current->free: 1, current->size: 864
+ptr: 53274bc0, current: 53274ba0, current->free 1, current->size: 864, current->next: 53274f20, current->previous: 53271a10
+
+FREE ptr: 5327b7c0
+BEFORE: current->free: 0, current->size: 688
+AFTER: current->free: 1, current->size: 688
+ptr: 5327b7c0, current: 5327b7a0, current->free 1, current->size: 688, current->next: 5327ba70, current->previous: 5327a910
+
+FREE ptr: 53271a30
+BEFORE: current->free: 0, current->size: 12656
+AFTER: current->free: 1, current->size: 12656
+ptr: 53271a30, current: 53271a10, current->free 1, current->size: 13552, current->next: 53274f20, current->previous: 5326f9f0
+
+FREE ptr: 532422c0
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 532422c0, current: 532422a0, current->free 1, current->size: 32, current->next: 532422e0, current->previous: 53241fd0
+
+FREE ptr: 5324aa10
+BEFORE: current->free: 0, current->size: 69504
+AFTER: current->free: 1, current->size: 69504
+ptr: 5324aa10, current: 5324a9f0, current->free 1, current->size: 69504, current->next: 5325b990, current->previous: 53242540
+MALLOC CALLED: size = 928
+RETURN not at end: 5324aa10
+
+
+
+FREE ptr: 53231a00
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 53231a00, current: 532319e0, current->free 1, current->size: 32, current->next: 53231a20, current->previous: 532319a0
+
+FREE ptr: 53231a40
+BEFORE: current->free: 0, current->size: 32
+AFTER: current->free: 1, current->size: 32
+ptr: 53231a40, current: 53231a20, current->free 1, current->size: 32, current->next: 53231a60, current->previous: 532319e0
+RETURN not at end: 5326f600
+MALLOC CALLED: size = 32
+RETURN not at end: 53231a00
+
+
+MALLOC CALLED: size = 32
+RETURN not at end: 532422c0
+
+
+MALLOC CALLED: size = 1626
+RETURN not at end: 53271a30
+
+
+RETURN not at end: 53275820
+MALLOC CALLED: size = 1613
+RETURN not at end: 53276290
+
+
+
+FREE ptr: 53275820
+BEFORE: current->free: 0, current->size: 2640
+AFTER: current->free: 1, current->size: 2640
+ptr: 53275820, current: 53275800, current->free 1, current->size: 2640, current->next: 53276270, current->previous: 53275490
+
+FREE ptr: 53276290
+BEFORE: current->free: 0, current->size: 1412429896
+AFTER: current->free: 1, current->size: 17342944

@@ -1,0 +1,79 @@
+18
+noticeable
+biassed
+limbless
+savannah
+stereotypical
+contused
+beset
+inefficiencies
+philippic
+confiscated
+flares
+queries
+purloins
+impeached
+pettiness
+intangible
+tuneless
+nougat
+
+54
+noticeable queries 39
+noticeable nougat 84
+noticeable tuneless 91
+biassed confiscated 93
+biassed beset 94
+biassed impeached 87
+limbless confiscated 75
+limbless intangible 19
+limbless confiscated 44
+savannah beset 60
+savannah queries 76
+savannah intangible 28
+stereotypical inefficiencies 73
+stereotypical nougat 56
+stereotypical confiscated 38
+contused purloins 58
+contused purloins 38
+contused confiscated 100
+beset contused 34
+beset flares 2
+beset contused 56
+inefficiencies biassed 95
+inefficiencies tuneless 41
+inefficiencies purloins 13
+philippic noticeable 38
+philippic limbless 7
+philippic purloins 4
+confiscated intangible 43
+confiscated intangible 12
+confiscated tuneless 57
+flares purloins 71
+flares contused 29
+flares noticeable 7
+queries intangible 40
+queries purloins 72
+queries impeached 19
+purloins pettiness 28
+purloins flares 61
+purloins confiscated 77
+impeached impeached 57
+impeached limbless 50
+impeached noticeable 78
+pettiness queries 1
+pettiness impeached 32
+pettiness queries 21
+intangible queries 65
+intangible limbless 54
+intangible philippic 99
+tuneless confiscated 25
+tuneless beset 4
+tuneless queries 30
+nougat savannah 80
+nougat queries 86
+nougat intangible 30
+
+impeached limbless
+queries flares
+beset intangible

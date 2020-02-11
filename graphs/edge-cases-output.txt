@@ -1,0 +1,3 @@
+SelfReferential -> SelfReferential: 0
+MultiplePathsA -> MultiplePathsB: 2
+DisconnectedA and DisconnectedB are not connected

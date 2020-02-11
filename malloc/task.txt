@@ -1,0 +1,47 @@
+TASK
+=============
+You are to implement the following two functions:
+  void *malloc(size_t size);
+  void free(void *ptr);
+
+The malloc() function allocates size bytes and returns a pointer to the allocated memory. The memory is not initialised. If size is 0, then malloc() returns NULL. On an error, such as there being fewer than size bytes available for allocation, malloc() returns NULL.
+
+The free() function frees the memory space pointed to by ptr, which must have been returned by a previous called to malloc(). Otherwise, or if free(ptr) has already been called before, undefined behaviour occurs. If ptr is NULL, no operation is performed.
+
+IMPLEMENTATION
+=============
+Both simple-malloc.c and malloc.c contain the same stuff: a big ol' static buffer which you can use to dish out memory. Do this in two stages:
+
+  malloc-simple.c:
+  In this simple implementation, malloc(size) returns a portion of the static buffer, and keeps track of already-allocated memory. Free is not implemented, so we leak all the memory we allocate!
+
+  malloc.c:
+  Now we implement free. To do so, we'll have to keep track of which parts of the buffer have been allocated and which are free. You will be given sufficient guidance in person when we reach this point.
+
+DEBUGGING & TESTING
+=============
+Fortunately, malloc and free are already implemented on your machine. But how then do we run your implementations? First, we'll need to compile them to a shared object (roughly, a library of object code that other applications can link with):
+
+	gcc -O0 -g -W -Wall -Wextra -shared -fPIC <your-malloc-file>.c utility/debug.c -o <your-malloc>.so
+
+Then we'll preload your shared object so that we get our malloc and free implementations linked before the libc ones:
+
+	LD_PRELOAD=<absolute-path-to-your-so>.so <program-to-run>
+
+If the program ran successfully, well done! But perhaps you got a segmentation fault...
+
+In order to facilitate debugging we have provided debug.h, which includes the void mem_safe_printf(const char *format, ...) function. This function has printf semantics, but does not rely on malloc. You'll also be able to use gdb, but remember to LD_PRELOAD *after* starting gdb, i.e.,
+	gdb set environment LD_PRELOAD=/home/starleaf/Desktop/malloc/build/malloc.so
+	(gdb) set environment LD_PRELOAD <absolute-path-to-your-so>.so
+	(gdb) run
+
+Included is a Makefile containing two malloc targets: malloc-simple and malloc. It also includes rules to build two sets of tests; test-malloc-simple and test-malloc. You're encouraged to expand this basic suite of tests as you debug your program. You should also use your own programs, and indeed programs like /bin/ls to help you test your implementation!
+
+
+RULES
+=============
+  - You must not use any functions which result in stdlib's malloc, free, calloc, or realloc being called. Obviously.
+  - Your implementations of malloc and free must return control to the caller before the heat death of the universe*.
+  - You MUST have fun. Any persons not having fun are to report to a superior member of staff immediately.
+
+* except in cases where the functions are called very close to the heat death of the universe...
